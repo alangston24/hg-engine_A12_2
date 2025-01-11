@@ -264,7 +264,7 @@ trainerdata 7, "Irwin"
 trainerdata 8, "Joey"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_YOUNGSTER
-    nummons 1
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -707,14 +707,14 @@ trainerdata 20, "Falkner"
         // mon 2
         ivs 200
         abilityslot 0
-        level 12
-        pokemon SPECIES_EMOLGA
+        level 14
+        pokemon SPECIES_WATTREL
         item ITEM_ORAN_BERRY
         move MOVE_THUNDER_SHOCK
         move MOVE_GUST
         move MOVE_QUICK_ATTACK
         move MOVE_NUZZLE
-        ability ABILITY_STATIC
+        ability ABILITY_WIND_POWER
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
         setevs 6, 0, 0, 252, 252, 0
@@ -2005,14 +2005,14 @@ trainerdata 51, "Nico"
         // mon 0
         ivs 0
         abilityslot 0
-        level 8
-        pokemon SPECIES_BELLSPROUT
+        level 10
+        pokemon SPECIES_CHANSEY
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 9
+        level 10
         pokemon SPECIES_BELLSPROUT
         ballseal 0
 
@@ -2055,7 +2055,7 @@ trainerdata 52, "Edmond"
         ivs 0
         abilityslot 0
         level 10
-        pokemon SPECIES_POOCHYENA
+        pokemon SPECIES_CHANSEY
         ballseal 0
     endparty
 
@@ -2082,7 +2082,7 @@ trainerdata 53, "Jin"
         // mon 1
         ivs 0
         abilityslot 0
-        level 11
+        level 12
         pokemon SPECIES_STARLY
         ballseal 0
     endparty
@@ -2090,7 +2090,7 @@ trainerdata 53, "Jin"
 trainerdata 54, "Troy"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_SAGE
-    nummons 2
+    nummons 4
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -2110,8 +2110,22 @@ trainerdata 54, "Troy"
         // mon 1
         ivs 0
         abilityslot 0
-        level 13
+        level 11
         pokemon SPECIES_ZUBAT
+        ballseal 0
+
+        // mon 2
+        ivs 0
+        abilityslot 0
+        level 12
+        pokemon SPECIES_CHANSEY
+        ballseal 0
+
+        // mon 2
+        ivs 0
+        abilityslot 0
+        level 13
+        pokemon SPECIES_BELLSPROUT
         ballseal 0
     endparty
 
@@ -10432,7 +10446,7 @@ trainerdata 290, "Li"
         // mon 0
         ivs 0
         abilityslot 0
-        level 12
+        level 13
         pokemon SPECIES_GEODUDE
         ballseal 0
 
