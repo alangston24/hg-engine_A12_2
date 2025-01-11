@@ -698,7 +698,7 @@ trainerdata 20, "Falkner"
         ability ABILITY_OVERGROW
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 252, 0, 126, 0, 126, 6
+        setevs 126, 0, 126, 0, 126, 6
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 
@@ -745,18 +745,18 @@ trainerdata 20, "Falkner"
         // mon 4
         ivs 200
         abilityslot 0
-        level 13
-        pokemon SPECIES_MANTYKE
+        level 15
+        pokemon SPECIES_WINGULL
         item ITEM_ORAN_BERRY
-        move MOVE_WATER_PULSE
+        move MOVE_WATER_GUN
         move MOVE_WING_ATTACK
-        move MOVE_RAIN_DANCE
-        move MOVE_ENDURE
-        ability ABILITY_WATER_ABSORB
+        move MOVE_QUICK_ATTACK
+        move MOVE_GROWL
+        ability ABILITY_KEEN_EYE
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 252, 0, 6, 0, 0, 252
-        nature NATURE_MILD
+        setevs 126, 0, 126, 126, 0, 126
+        nature NATURE_HASTY
         shinylock 0
         additionalflags 0 
         ballseal 0
