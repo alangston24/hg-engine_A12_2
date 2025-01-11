@@ -1615,11 +1615,11 @@ levelup SPECIES_GEODUDE
     learnset MOVE_DEFENSE_CURL, 1
     learnset MOVE_MUD_SPORT, 4
     learnset MOVE_ROCK_POLISH, 6
-    learnset MOVE_ROLLOUT, 10
-    learnset MOVE_MAGNITUDE, 12
-    learnset MOVE_ROCK_THROW, 16
-    learnset MOVE_SMACK_DOWN, 18
-    learnset MOVE_BULLDOZE, 22
+    learnset MOVE_ROLLOUT, 9
+    learnset MOVE_MAGNITUDE, 11
+    learnset MOVE_ROCK_THROW, 13
+    learnset MOVE_SMACK_DOWN, 17
+    learnset MOVE_BULLDOZE, 21
     learnset MOVE_SELF_DESTRUCT, 24
     learnset MOVE_STEALTH_ROCK, 28
     learnset MOVE_ROCK_BLAST, 30
@@ -19419,6 +19419,13 @@ levelup SPECIES_COALOSSAL
 levelup SPECIES_APPLIN
     learnset MOVE_WITHDRAW, 1
     learnset MOVE_ASTONISH, 1
+    learnset MOVE_ABSORB, 5
+    learnset MOVE_TWISTER, 7
+    learnset MOVE_SYNTHESIS, 10
+    learnset MOVE_MEGA_DRAIN, 13
+    learnset MOVE_LEECH_SEED, 16
+    learnset MOVE_MAGICAL_LEAF, 19
+    learnset MOVE_DRAGON_BREATH, 22
     terminatelearnset
 
 

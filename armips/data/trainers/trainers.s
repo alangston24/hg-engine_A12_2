@@ -89,7 +89,7 @@ trainerdata 2, "Silver"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_CHIMCHAR
+        pokemon SPECIES_FROAKIE
         ballseal 0
     endparty
 
@@ -110,7 +110,7 @@ trainerdata 3, "Silver"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_FROAKIE
+        pokemon SPECIES_SNIVY
         ballseal 0
     endparty
 
@@ -689,16 +689,16 @@ trainerdata 20, "Falkner"
         ivs 200
         abilityslot 0
         level 14
-        pokemon SPECIES_GLIGAR
-        item ITEM_SOFT_SAND
-        move MOVE_KNOCK_OFF
-        move MOVE_QUICK_ATTACK
-        move MOVE_SAND_TOMB
+        pokemon SPECIES_ROWLET
+        item ITEM_MIRACLE_SEED
+        move MOVE_SHADOW_SNEAK
+        move MOVE_RAZOR_LEAF
         move MOVE_PECK
-        ability ABILITY_HYPER_CUTTER
+        move MOVE_GROWL
+        ability ABILITY_OVERGROW
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 252, 252, 0, 6, 0, 0
+        setevs 252, 0, 126, 0, 126, 6
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 
@@ -9222,7 +9222,7 @@ trainerdata 265, "Silver"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_SNIVY
+        pokemon SPECIES_CHIMCHAR
         ballseal 0
     endparty
 
@@ -10454,7 +10454,7 @@ trainerdata 290, "Li"
         ivs 0
         abilityslot 0
         level 13
-        pokemon SPECIES_GROWLITHE
+        pokemon SPECIES_CHIMCHAR
         ballseal 0
 
         // mon 2
@@ -17214,7 +17214,7 @@ trainerdata 495, "Boy"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_SNIVY
+        pokemon SPECIES_CHIMCHAR
         ballseal 0
     endparty
 
@@ -17235,7 +17235,7 @@ trainerdata 496, "Boy"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_CHIMCHAR
+        pokemon SPECIES_FROAKIE
         ballseal 0
     endparty
 
@@ -17256,7 +17256,7 @@ trainerdata 497, "Boy"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_FROAKIE
+        pokemon SPECIES_SNIVY
         ballseal 0
     endparty
 
