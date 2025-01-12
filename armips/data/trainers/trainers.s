@@ -16690,9 +16690,9 @@ trainerdata 485, "Archer"
     endparty
 
 trainerdata 486, "Proton"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
     trainerclass TRAINERCLASS_EXECUTIVE_PROTON
-    nummons 2
+    nummons 4
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -16703,31 +16703,79 @@ trainerdata 486, "Proton"
 
     party 486
         // mon 0
-        ivs 100
+        ivs 200
         abilityslot 0
-        level 18
+        level 19
         pokemon SPECIES_ZUBAT
+        item ITEM_RAZOR_CLAW
+        move MOVE_POISON_FANG
+        move MOVE_AIR_CUTTER
+        move MOVE_SUPERSONIC
+        move MOVE_MEGA_DRAIN
+        ability ABILITY_INNER_FOCUS
+        ball ITEM_GREAT_BALL
+        setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 252, 252, 0, 0, 0, 0
+        nature NATURE_ADAMANT
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
 
         // mon 1
-        ivs 100
+        ivs 200
         abilityslot 0
-        level 18
+        level 19
         pokemon SPECIES_KOFFING
+        item ITEM_BLACK_SLUDGE
+        move MOVE_POISON_GAS
+        move MOVE_SLUDGE
+        move MOVE_REST
+        move MOVE_SLEEP_TALK
+        ability ABILITY_LEVITATE
+        ball ITEM_GREAT_BALL
+        setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 252, 0, 126, 0, 0, 126
+        nature NATURE_BOLD
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
 
         // mon 2
-        ivs 100
+        ivs 200
         abilityslot 0
-        level 18
+        level 19
         pokemon SPECIES_EKANS
+        item ITEM_RAZOR_FANG
+        move MOVE_POISON_FANG
+        move MOVE_BITE
+        move MOVE_GLARE
+        move MOVE_SCREECH
+        ability ABILITY_INTIMIDATE
+        ball ITEM_GREAT_BALL
+        setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 252, 252, 0, 0, 0, 0
+        nature NATURE_ADAMANT
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
 
         // mon 3
-        ivs 100
+        ivs 200
         abilityslot 0
-        level 19
+        level 20
         pokemon SPECIES_BEEDRILL
+        item ITEM_CHARTI_BERRY
+        move MOVE_POISON_FANG
+        move MOVE_FURY_CUTTER
+        move MOVE_CUT
+        move MOVE_ROOST
+        ability ABILITY_SNIPER
+        ball ITEM_GREAT_BALL
+        setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 126, 126, 126, 126, 0, 0
+        nature NATURE_BRAVE
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
     endparty
 
