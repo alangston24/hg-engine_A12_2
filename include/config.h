@@ -70,7 +70,7 @@
 // uncommenting IMPLEMENT_LEVEL_CAP enables the level cap system.  undefining LEVEL_CAP_VARIABLE will just cause compilation errors
 // uncommenting UNCAP_CANDIES_FROM_LEVEL_CAP will allow for rare candies to not be capped by the level cap even with the level cap in place, like run & bun
 #define IMPLEMENT_LEVEL_CAP
-#define LEVEL_CAP_VARIABLE 0x416F 16
+#define LEVEL_CAP_VARIABLE 0x416F
 //#define UNCAP_CANDIES_FROM_LEVEL_CAP
 
 // UPDATE_OVERWORLD_POISON will remove overworld poison if enabled
