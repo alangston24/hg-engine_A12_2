@@ -688,7 +688,7 @@ trainerdata 20, "Falkner"
         // mon 1
         ivs 200
         abilityslot 0
-        level 14
+        level 15
         pokemon SPECIES_ROWLET
         item ITEM_MIRACLE_SEED
         move MOVE_SHADOW_SNEAK
@@ -698,7 +698,7 @@ trainerdata 20, "Falkner"
         ability ABILITY_OVERGROW
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 126, 0, 126, 0, 126, 6
+        setevs 256, 256, 0, 0, 0, 6
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 
@@ -707,7 +707,7 @@ trainerdata 20, "Falkner"
         // mon 2
         ivs 200
         abilityslot 0
-        level 14
+        level 15
         pokemon SPECIES_WATTREL
         item ITEM_ORAN_BERRY
         move MOVE_THUNDER_SHOCK
@@ -755,8 +755,8 @@ trainerdata 20, "Falkner"
         ability ABILITY_KEEN_EYE
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 126, 0, 126, 126, 0, 126
-        nature NATURE_HASTY
+        setevs 256, 0, 126, 0, 0, 126
+        nature NATURE_TIMID
         shinylock 0
         additionalflags 0 
         ballseal 0
