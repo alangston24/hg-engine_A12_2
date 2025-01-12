@@ -782,7 +782,7 @@ trainerdata 20, "Falkner"
     endparty
 
 trainerdata 21, "Bugsy"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
     trainerclass TRAINERCLASS_LEADER_BUGSY
     nummons 6
     item ITEM_SUPER_POTION
@@ -797,7 +797,7 @@ trainerdata 21, "Bugsy"
         // mon 0
         ivs 200
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_ANORITH 
         item ITEM_LEFTOVERS
         move MOVE_STEALTH_ROCK
@@ -816,7 +816,7 @@ trainerdata 21, "Bugsy"
         // mon 1
         ivs 200
         abilityslot 0
-        level 22
+        level 20
         pokemon SPECIES_ARAQUANID
         item ITEM_WACAN_BERRY
         move MOVE_RAIN_DANCE
@@ -835,7 +835,7 @@ trainerdata 21, "Bugsy"
         // mon 2
         ivs 200
         abilityslot 0
-        level 21
+        level 22
         pokemon SPECIES_BEEDRILL
         item ITEM_FOCUS_SASH
         move MOVE_POISON_JAB
@@ -854,7 +854,7 @@ trainerdata 21, "Bugsy"
         // mon 3
         ivs 200
         abilityslot 0
-        level 20
+        level 22
         pokemon SPECIES_MOTHIM
         item ITEM_SHARP_BEAK
         move MOVE_AIR_SLASH
@@ -873,7 +873,7 @@ trainerdata 21, "Bugsy"
         // mon 4
         ivs 200
         abilityslot 0
-        level 20
+        level 21
         pokemon SPECIES_HERACROSS
         item ITEM_FLAME_ORB
         move MOVE_BRICK_BREAK
@@ -892,7 +892,7 @@ trainerdata 21, "Bugsy"
         // mon 5
         ivs 254
         abilityslot 0
-        level 22
+        level 23
         pokemon SPECIES_SCYTHER
         item ITEM_SITRUS_BERRY
         move MOVE_QUICK_ATTACK
