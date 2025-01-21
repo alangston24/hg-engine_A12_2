@@ -3772,6 +3772,7 @@ levelup SPECIES_LEDYBA
 
 
 levelup SPECIES_LEDIAN
+    learnset MOVE_MACH_PUNCH, 0
     learnset MOVE_TACKLE, 1
     learnset MOVE_SUPERSONIC, 1
     learnset MOVE_SWIFT, 1
@@ -3780,14 +3781,18 @@ levelup SPECIES_LEDIAN
     learnset MOVE_LIGHT_SCREEN, 12
     learnset MOVE_REFLECT, 12
     learnset MOVE_SAFEGUARD, 12
-    learnset MOVE_MACH_PUNCH, 15
-    learnset MOVE_SILVER_WIND, 20
-    learnset MOVE_COMET_PUNCH, 24
-    learnset MOVE_BATON_PASS, 29
-    learnset MOVE_AGILITY, 33
-    learnset MOVE_BUG_BUZZ, 38
-    learnset MOVE_AIR_SLASH, 42
-    learnset MOVE_DOUBLE_EDGE, 47
+    learnset MOVE_MACH_PUNCH, 16
+    learnset MOVE_POWER_UP_PUNCH, 20
+    learnset MOVE_DRAIN_PUNCH, 22
+    learnset MOVE_BULLET_PUNCH, 24
+    learnset MOVE_THUNDER_PUNCH, 26
+    learnset MOVE_ICE_PUNCH, 26
+    learnset MOVE_FIRE_PUNCH, 26
+    learnset MOVE_AGILITY, 29
+    learnset MOVE_AERIAL_ACE, 32
+    learnset MOVE_SKY_UPPERCUT, 35
+    learnset MOVE_METEOR_MASH, 38
+    learnset MOVE_DYNAMIC_PUNCH, 41
     terminatelearnset
 
 
