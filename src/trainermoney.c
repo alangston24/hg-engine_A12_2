@@ -9,8 +9,8 @@ struct TrainerMoney
 
 struct TrainerMoney PrizeMoney[] = // 0x34C04 in Overlay 12; 2 bytes for trainer class ID, 2 bytes for modifier; 516 bytes in total in vanilla
 {
-    { .class = TRAINERCLASS_PKMN_TRAINER_ETHAN, .multiplier = 0 },
-    { .class = TRAINERCLASS_PKMN_TRAINER_LYRA, .multiplier = 0 },
+    { .class = TRAINERCLASS_PKMN_TRAINER_ETHAN, .multiplier = 50 },
+    { .class = TRAINERCLASS_PKMN_TRAINER_LYRA, .multiplier = 50 },
     { .class = TRAINERCLASS_YOUNGSTER, .multiplier = 4 },
     { .class = TRAINERCLASS_LASS, .multiplier = 4 },
     { .class = TRAINERCLASS_CAMPER, .multiplier = 4 },
@@ -133,9 +133,9 @@ struct TrainerMoney PrizeMoney[] = // 0x34C04 in Overlay 12; 2 bytes for trainer
     { .class = TRAINERCLASS_YOUNG_COUPLE, .multiplier = 16 },
     { .class = TRAINERCLASS_PKMN_TRAINER_LANCE, .multiplier = 0 },
     { .class = TRAINERCLASS_ROCKET_BOSS, .multiplier = 45 },
-    { .class = TRAINERCLASS_PKMN_TRAINER_LUCAS_DP, .multiplier = 0 },
-    { .class = TRAINERCLASS_PKMN_TRAINER_DAWN_DP, .multiplier = 0 },
-    { .class = TRAINERCLASS_PKMN_TRAINER_LUCAS_PT, .multiplier = 0 },
-    { .class = TRAINERCLASS_PKMN_TRAINER_DAWN_PT, .multiplier = 0 },
+    { .class = TRAINERCLASS_PKMN_TRAINER_LUCAS_DP, .multiplier = 50 },
+    { .class = TRAINERCLASS_PKMN_TRAINER_DAWN_DP, .multiplier = 50 },
+    { .class = TRAINERCLASS_PKMN_TRAINER_LUCAS_PT, .multiplier = 50 },
+    { .class = TRAINERCLASS_PKMN_TRAINER_DAWN_PT, .multiplier = 50 },
     { .class = TRAINERCLASS_BIRD_KEEPER, .multiplier = 8 },
 };
