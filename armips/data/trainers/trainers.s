@@ -194,7 +194,7 @@ trainerdata 5, "Victoria"
 trainerdata 6, "Keith"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_POLICEMAN
-    nummons 1
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -216,6 +216,13 @@ trainerdata 6, "Keith"
         abilityslot 0
         level 24
         pokemon SPECIES_MURKROW
+        ballseal 0
+
+        // mon 2
+        ivs 0
+        abilityslot 0
+        level 24
+        pokemon SPECIES_PERSIAN
         ballseal 0
     endparty
 
@@ -2488,7 +2495,7 @@ trainerdata 65, "Gina"
 trainerdata 66, "Todd"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_CAMPER
-    nummons 1
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -2509,7 +2516,7 @@ trainerdata 66, "Todd"
         ivs 0
         abilityslot 0
         level 24
-        pokemon SPECIES_GROWLITHE
+        pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 2
@@ -4214,16 +4221,15 @@ trainerdata 118, "Kate"
         // mon 0
         ivs 50
         abilityslot 0
-        level 26
-        pokemon SPECIES_SHELLDER
+        level 24
+        pokemon SPECIES_CLOYSTER
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 28
-        pokemon SPECIES_CLOYSTER
-        ballseal 0
+        level 25
+        pokemon SPECIES_CLEFAIRY
     endparty
 
 trainerdata 119, "Fran"
@@ -4250,7 +4256,7 @@ trainerdata 119, "Fran"
 trainerdata 120, "Irene"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_ACE_TRAINER_F
-    nummons 2
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -4264,14 +4270,21 @@ trainerdata 120, "Irene"
         ivs 50
         abilityslot 0
         level 22
-        pokemon SPECIES_GOLDEEN
+        pokemon SPECIES_SEAKING
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
+        level 23
+        pokemon SPECIES_PIKACHU
+        ballseal 0
+
+        // mon 2
+        ivs 50
+        abilityslot 0
         level 24
-        pokemon SPECIES_SEAKING
+        pokemon SPECIES_GRAVELER
         ballseal 0
     endparty
 
@@ -14235,7 +14248,7 @@ trainerdata 408, "Cybil"
 trainerdata 409, "Brandon"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_POKEFAN_M
-    nummons 2
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -14502,7 +14515,7 @@ trainerdata 416, "Jo & Zoe"
 trainerdata 417, "Jenn"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_ACE_TRAINER_F
-    nummons 2
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -14515,15 +14528,22 @@ trainerdata 417, "Jenn"
         // mon 0
         ivs 50
         abilityslot 0
-        level 24
-        pokemon SPECIES_STARYU
+        level 23
+        pokemon SPECIES_STARMIE
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 26
-        pokemon SPECIES_STARMIE
+        level 24
+        pokemon SPECIES_GALVANTULA
+        ballseal 0
+
+        // mon 2
+        ivs 50
+        abilityslot 0
+        level 24
+        pokemon SPECIES_ONIX
         ballseal 0
     endparty
 
