@@ -24350,44 +24350,43 @@ levelup SPECIES_SANDSHREW_ALOLAN
     learnset MOVE_POWDER_SNOW, 5
     learnset MOVE_ICE_BALL, 7
     learnset MOVE_ROLLOUT, 9
-    learnset MOVE_FURY_CUTTER, 11
+    learnset MOVE_ICE_SHARD, 11
     learnset MOVE_RAPID_SPIN, 12
     learnset MOVE_METAL_CLAW, 16
-    learnset MOVE_SWIFT, 19
-    learnset MOVE_FURY_SWIPES, 22
+    learnset MOVE_HAIL, 19
+    learnset MOVE_DIG, 22
     learnset MOVE_IRON_DEFENSE, 25
-    learnset MOVE_SLASH, 28
-    learnset MOVE_IRON_HEAD, 31
-    learnset MOVE_GYRO_BALL, 35
-    learnset MOVE_SWORDS_DANCE, 38
-    learnset MOVE_HAIL, 42
-    learnset MOVE_BLIZZARD, 45
+    learnset MOVE_ROCK_POLISH, 28
+    learnset MOVE_IRON_HEAD, 30
+    learnset MOVE_ICICLE_CRASH, 32
+    learnset MOVE_SWORDS_DANCE, 35
+    learnset MOVE_HAIL, 37
+    learnset MOVE_BLIZZARD, 40
     terminatelearnset
 
 
 levelup SPECIES_SANDSLASH_ALOLAN
-    learnset MOVE_ICICLE_SPEAR, 0
-    learnset MOVE_ICICLE_SPEAR, 1
-    learnset MOVE_ICICLE_CRASH, 1
-    learnset MOVE_METAL_BURST, 1
-    learnset MOVE_ROLLOUT, 1
-    learnset MOVE_FURY_CUTTER, 1
-    learnset MOVE_RAPID_SPIN, 1
-    learnset MOVE_METAL_CLAW, 1
-    learnset MOVE_SWIFT, 1
-    learnset MOVE_FURY_SWIPES, 1
-    learnset MOVE_IRON_DEFENSE, 1
-    learnset MOVE_SLASH, 1
-    learnset MOVE_IRON_HEAD, 1
-    learnset MOVE_GYRO_BALL, 1
-    learnset MOVE_SWORDS_DANCE, 1
-    learnset MOVE_HAIL, 1
-    learnset MOVE_BLIZZARD, 1
     learnset MOVE_SCRATCH, 1
     learnset MOVE_DEFENSE_CURL, 1
-    learnset MOVE_MIST, 1
-    learnset MOVE_POWDER_SNOW, 1
-    learnset MOVE_ICE_BALL, 1
+    learnset MOVE_MIST, 3
+    learnset MOVE_BIDE, 3
+    learnset MOVE_POWDER_SNOW, 5
+    learnset MOVE_ICE_BALL, 7
+    learnset MOVE_ROLLOUT, 9
+    learnset MOVE_ICE_SHARD, 11
+    learnset MOVE_RAPID_SPIN, 12
+    learnset MOVE_METAL_CLAW, 16
+    learnset MOVE_HAIL, 19
+    learnset MOVE_DIG, 22
+    learnset MOVE_IRON_DEFENSE, 24
+    learnset MOVE_ROCK_POLISH, 26
+    learnset MOVE_IRON_HEAD, 28
+    learnset MOVE_ICICLE_CRASH, 32
+    learnset MOVE_SWORDS_DANCE, 35
+    learnset MOVE_ICE_BEAM, 37
+    learnset MOVE_EARTHQUAKE, 40
+    learnset MOVE_METAL_BURST, 42
+    learnset MOVE_METEOR_MASH, 45
     terminatelearnset
 
 
