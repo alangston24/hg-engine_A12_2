@@ -172,22 +172,22 @@ trainerdata 5, "Victoria"
         // mon 0
         ivs 10
         abilityslot 0
-        level 9
-        pokemon SPECIES_SENTRET
+        level 24
+        pokemon SPECIES_FURRET
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 13
-        pokemon SPECIES_SENTRET
+        level 25
+        pokemon SPECIES_CLEFAIRY
         ballseal 0
 
         // mon 2
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_SENTRET
+        level 24
+        pokemon SPECIES_STARAVIA
         ballseal 0
     endparty
 
@@ -932,12 +932,12 @@ trainerdata 22, "Carrie"
         // mon 0
         ivs 10
         abilityslot 0
-        level 17
-        pokemon SPECIES_SNUBBULL
-        move MOVE_SCARY_FACE
-        move MOVE_CHARM
-        move MOVE_BITE
-        move MOVE_LICK
+        level 24
+        pokemon SPECIES_GRANBULL
+        move MOVE_ICE_FANG
+        move MOVE_THUNDER_FANG
+        move MOVE_FIRE_FANG
+        move MOVE_TAKE_DOWN
         ballseal 0
     endparty
 
@@ -1209,7 +1209,7 @@ trainerdata 30, "Whitney"
         ability ABILITY_INTIMIDATE
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 252, 252, 0, 0, 0
+        setevs 0, 252, 0, 0, 0, 0
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 
@@ -1227,8 +1227,8 @@ trainerdata 30, "Whitney"
         move MOVE_PSYBEAM
         ability ABILITY_MAGIC_GUARD
         ball ITEM_GREAT_BALL
-        setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 0, 0, 0, 252, 252
+        setivs 0, 31, 15, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 0, 126, 126
         nature NATURE_BOLD
         shinylock 0
         additionalflags 0 
@@ -1265,8 +1265,8 @@ trainerdata 30, "Whitney"
         move MOVE_SWIFT
         ability ABILITY_BERSERK
         ball ITEM_GREAT_BALL
-        setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 252, 0, 0, 0, 252, 0
+        setivs 0, 0, 16, 16, 31, 16 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 0, 126, 0
         nature NATURE_MODEST
         shinylock 0
         additionalflags 0 
@@ -1285,7 +1285,7 @@ trainerdata 30, "Whitney"
         ability ABILITY_SOLAR_POWER
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 252, 0, 0, 0, 252, 0
+        setevs 126, 0, 126, 0, 0, 126
         nature NATURE_TIMID
         shinylock 0
         additionalflags 0 
@@ -2655,22 +2655,22 @@ trainerdata 70, "Samantha"
         // mon 0
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_MEOWTH
-        move MOVE_SCRATCH
-        move MOVE_GROWL
-        move MOVE_BITE
+        level 28
+        pokemon SPECIES_PERSIAN
+        move MOVE_SLASH
+        move MOVE_SCREECH
+        move MOVE_FAKE_OUT
         move MOVE_PAY_DAY
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_MEOWTH
-        move MOVE_SCRATCH
-        move MOVE_GROWL
-        move MOVE_BITE
+        level 25
+        pokemon SPECIES_PERSIAN_ALOLAN
+        move MOVE_NIGHT_SLASH
+        move MOVE_SCREECH
+        move MOVE_PAY_DAY
         move MOVE_SLASH
         ballseal 0
     endparty
@@ -2691,21 +2691,21 @@ trainerdata 71, "Cathy"
         // mon 0
         ivs 10
         abilityslot 0
-        level 15
+        level 25
         pokemon SPECIES_JIGGLYPUFF
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 15
+        level 25
         pokemon SPECIES_JIGGLYPUFF
         ballseal 0
 
         // mon 2
         ivs 10
         abilityslot 0
-        level 15
+        level 25
         pokemon SPECIES_JIGGLYPUFF
         ballseal 0
     endparty
@@ -10501,7 +10501,7 @@ trainerdata 290, "Li"
         ivs 0
         abilityslot 0
         level 13
-        pokemon SPECIES_CHIMCHAR
+        pokemon SPECIES_PONYTA
         ballseal 0
 
         // mon 2
