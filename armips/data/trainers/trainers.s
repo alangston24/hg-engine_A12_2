@@ -2667,7 +2667,7 @@ trainerdata 70, "Samantha"
         ivs 10
         abilityslot 0
         level 25
-        pokemon SPECIES_PERSIAN_ALOLAN
+        pokemon SPECIES_PERSIAN
         move MOVE_NIGHT_SLASH
         move MOVE_SCREECH
         move MOVE_PAY_DAY
