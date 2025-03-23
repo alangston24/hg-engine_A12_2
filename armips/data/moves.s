@@ -257,7 +257,7 @@ movedata MOVE_CUT, "Cut"
     type TYPE_GRASS
     accuracy 95
     pp 30
-    effectchance 20
+    effectchance 0
     target RANGE_SINGLE_TARGET
     priority 0
     flags FLAG_KEEP_HP_BAR | FLAG_KINGS_ROCK | FLAG_MIRROR_MOVE | FLAG_PROTECT | FLAG_CONTACT
