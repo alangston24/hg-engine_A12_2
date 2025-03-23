@@ -2204,46 +2204,45 @@ walklevels 24, 25, 23, 23, 24, 24, 25, 25, 26, 26, 26, 26
 
 // morning encounter slots
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC
+pokemon monwithform_LYCANROC, 3
 pokemon SPECIES_MAWILE
 pokemon SPECIES_MAWILE
-pokemon SPECIES_LINOONE_GALARIAN
+pokemon monwithform_LINOONE, 1
 pokemon SPECIES_LEDIAN
-pokemon SPECIES_LINOONE_GALARIAN
+pokemon monwithform_LINOONE, 1
 pokemon SPECIES_LEDIAN
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC_DUSK
+pokemon monwithform_LYCANROC, 2
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC_DUSK
+pokemon monwithform_LYCANROC, 2
 
 // day encounter slots
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC
+pokemon monwithform_LYCANROC, 3
 pokemon SPECIES_MAWILE
 pokemon SPECIES_MAWILE
-pokemon SPECIES_LINOONE_GALARIAN
+pokemon monwithform_LINOONE, 1
 pokemon SPECIES_LEDIAN
-pokemon SPECIES_LINOONE_GALARIAN
+pokemon monwithform_LINOONE, 1
 pokemon SPECIES_LEDIAN
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC
+pokemon monwithform_LYCANROC, 3
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC
+pokemon monwithform_LYCANROC, 3
 
 // night encounter slots
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC_MIDNIGHT
+pokemon monwithform_LYCANROC, 1
 pokemon SPECIES_MAWILE
 pokemon SPECIES_MAWILE
-pokemon SPECIES_LINOONE_GALARIAN
+pokemon monwithform_LINOONE, 1
 pokemon SPECIES_LEDIAN
-pokemon SPECIES_LINOONE_GALARIAN
+pokemon monwithform_LINOONE, 1
 pokemon SPECIES_LEDIAN
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC_DUSK
+pokemon monwithform_LYCANROC, 2
 pokemon SPECIES_DURANT
-pokemon SPECIES_LYCANROC_DUSK
-
+pokemon monwithform_LYCANROC, 2
 // hoenn encounter slots
 pokemon SPECIES_WHISMUR
 pokemon SPECIES_LINOONE
