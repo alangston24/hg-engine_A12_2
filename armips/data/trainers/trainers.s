@@ -2635,7 +2635,7 @@ trainerdata 69, "Josh"
         ivs 100
         abilityslot 0
         level 20
-        pokemon SPECIES_WORMADAM_TRASHY
+        monwithform SPECIES_WORMADAM, 2
         ballseal 0
     endparty
 
