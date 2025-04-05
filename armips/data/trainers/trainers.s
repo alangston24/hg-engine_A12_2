@@ -1424,7 +1424,7 @@ trainerdata 31, "Morty"
         abilityslot 0
         level 38
         pokemon SPECIES_GENGAR
-        item ITEM_SITRUS_BERRY
+        item ITEM_GENGARITE
         move MOVE_SHADOW_BALL
         move MOVE_SLUDGE_BOMB
         move MOVE_FOCUS_BLAST
