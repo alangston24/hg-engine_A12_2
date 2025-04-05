@@ -1923,22 +1923,22 @@ trainerdata 46, "Martha"
         // mon 0
         ivs 10
         abilityslot 0
-        level 18
-        pokemon SPECIES_GASTLY
+        level 35
+        pokemon SPECIES_HAUNTER
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_HAUNTER
+        level 35
+        pokemon SPECIES_DUSCLOPS
         ballseal 0
 
         // mon 2
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_GASTLY
+        level 35
+        pokemon SPECIES_FROSLASS
         ballseal 0
     endparty
 
@@ -3386,15 +3386,15 @@ trainerdata 89, "Grace"
         // mon 0
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_HAUNTER
+        level 32
+        pokemon SPECIES_MISMAGIUS
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 20
-        pokemon SPECIES_HAUNTER
+        level 32
+        pokemon SPECIES_ROTOM
         ballseal 0
     endparty
 
@@ -10127,9 +10127,8 @@ trainerdata 281, "Richard"
         // mon 0
         ivs 0
         abilityslot 0
-        level 18
+        level 32
         pokemon SPECIES_CHARMELEON
-        ballseal 0
     endparty
 
 trainerdata 282, "Ned"
@@ -10148,22 +10147,22 @@ trainerdata 282, "Ned"
         // mon 0
         ivs 0
         abilityslot 0
-        level 16
-        pokemon SPECIES_KOFFING
+        level 31
+        pokemon SPECIES_WEEZING
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 17
+        level 33
         pokemon SPECIES_GROWLITHE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 16
-        pokemon SPECIES_KOFFING
+        level 30
+        pokemon SPECIES_MAGMAR
         ballseal 0
     endparty
 
@@ -17381,8 +17380,8 @@ trainerdata 493, "Edith"
         // mon 0
         ivs 10
         abilityslot 0
-        level 22
-        pokemon SPECIES_HAUNTER
+        level 35
+        pokemon SPECIES_DUSKNOIR
         ballseal 0
     endparty
 
@@ -17402,36 +17401,36 @@ trainerdata 494, "Georgina"
         // mon 0
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 30
+        pokemon SPECIES_HAUNTER
         ballseal 0
 
         // mon 1
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 30
+        pokemon SPECIES_BANETTE
         ballseal 0
 
         // mon 2
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 30
+        pokemon SPECIES_DRIFBLIM
         ballseal 0
 
         // mon 3
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 30
+        pokemon SPECIES_LAMPENT
         ballseal 0
 
         // mon 4
         ivs 10
         abilityslot 0
-        level 16
-        pokemon SPECIES_GASTLY
+        level 30
+        pokemon SPECIES_SABLEYE
         ballseal 0
     endparty
 
@@ -20810,8 +20809,8 @@ trainerdata 601, "Grunt"
         // mon 0
         ivs 30
         abilityslot 0
-        level 12
-        pokemon SPECIES_KOFFING
+        level 30
+        pokemon SPECIES_WEEZING
         ballseal 0
     endparty
 
