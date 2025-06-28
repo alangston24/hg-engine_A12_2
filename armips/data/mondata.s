@@ -583,7 +583,7 @@ mondata SPECIES_RAICHU, "Raichu"
 
 mondata SPECIES_SANDSHREW, "Sandshrew"
     basestats 50, 75, 85, 40, 20, 30
-    types TYPE_GROUND, TYPE_GROUND
+    types TYPE_GROUND, TYPE_ROCK
     catchrate 255
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 1, 0, 0, 0
@@ -604,7 +604,7 @@ mondata SPECIES_SANDSHREW, "Sandshrew"
 
 mondata SPECIES_SANDSLASH, "Sandslash"
     basestats 75, 100, 110, 65, 45, 55
-    types TYPE_GROUND, TYPE_GROUND
+    types TYPE_GROUND, TYPE_ROCK
     catchrate 90
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 2, 0, 0, 0
@@ -3417,7 +3417,7 @@ mondata SPECIES_SENTRET, "Sentret"
 
 
 mondata SPECIES_FURRET, "Furret"
-    basestats 85, 76, 64, 90, 45, 55
+    basestats 85, 91, 64, 90, 45, 60
     types TYPE_NORMAL, TYPE_NORMAL
     catchrate 90
     baseexp 0 // defined in baseexp.s
@@ -3501,7 +3501,7 @@ mondata SPECIES_LEDYBA, "Ledyba"
 
 
 mondata SPECIES_LEDIAN, "Ledian"
-    basestats 55, 35, 50, 85, 55, 110
+    basestats 65, 95, 65, 90, 25, 90
     types TYPE_BUG, TYPE_FLYING
     catchrate 90
     baseexp 0 // defined in baseexp.s
@@ -3512,7 +3512,7 @@ mondata SPECIES_LEDIAN, "Ledian"
     basefriendship 70
     growthrate GROWTH_FAST
     egggroups EGG_GROUP_BUG, EGG_GROUP_BUG
-    abilities ABILITY_SWARM, ABILITY_EARLY_BIRD
+    abilities ABILITY_NO_GUARD, ABILITY_IRON_FIST
     runchance 0
     colorflip BODY_COLOR_RED, 0
     mondexentry SPECIES_LEDIAN, "When the stars flicker in the\nnight sky, it flutters about,\nscattering a glowing powder."
@@ -6378,7 +6378,7 @@ mondata SPECIES_SABLEYE, "Sableye"
 
 
 mondata SPECIES_MAWILE, "Mawile"
-    basestats 50, 85, 85, 50, 55, 55
+    basestats 50, 95, 95, 50, 55, 55
     types TYPE_STEEL, (FAIRY_TYPE_IMPLEMENTED) ? TYPE_FAIRY : TYPE_STEEL
     catchrate 45
     baseexp 0 // defined in baseexp.s
@@ -8258,7 +8258,7 @@ mondata SPECIES_INFERNAPE, "Infernape"
     basefriendship 70
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_FIELD, EGG_GROUP_HUMAN_LIKE
-    abilities ABILITY_BLAZE, ABILITY_NONE
+    abilities ABILITY_BLAZE, ABILITY_IRON_FIST
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
     mondexentry SPECIES_INFERNAPE, "It tosses its enemies around with\nagility. It uses all its limbs to\nfight in its own unique style."
@@ -11503,7 +11503,7 @@ mondata SPECIES_SERVINE, "Servine"
 
 mondata SPECIES_SERPERIOR, "Serperior"
     basestats 75, 75, 95, 113, 75, 95
-    types TYPE_GRASS, TYPE_GRASS
+    types TYPE_GRASS, TYPE_DRAGON
     catchrate 45
     baseexp 0 // defined in baseexp.s
     evyields 0, 0, 0, 3, 0, 0
@@ -11513,7 +11513,7 @@ mondata SPECIES_SERPERIOR, "Serperior"
     basefriendship 70
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_FIELD, EGG_GROUP_GRASS
-    abilities ABILITY_OVERGROW, ABILITY_NONE
+    abilities ABILITY_OVERGROW, ABILITY_CONTRARY
     runchance 0
     colorflip BODY_COLOR_GREEN, 0
     mondexentry SPECIES_SERPERIOR, "It only gives its all against\nstrong opponents who are not fazed\nby the glare from Serperior's noble eyes."
@@ -14894,7 +14894,7 @@ mondata SPECIES_GRENINJA, "Greninja"
     basefriendship 70
     growthrate GROWTH_MEDIUM_SLOW
     egggroups EGG_GROUP_WATER_1, EGG_GROUP_WATER_1
-    abilities ABILITY_TORRENT, ABILITY_NONE
+    abilities ABILITY_TORRENT, ABILITY_PROTEAN
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
     mondexentry SPECIES_GRENINJA, "It creates throwing stars out of\ncompressed water, that can split metal\nin two."
@@ -23470,7 +23470,7 @@ mondata SPECIES_SANDSHREW_ALOLAN, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_SNOW_CLOAK,  ABILITY_NONE
+    abilities ABILITY_SNOW_CLOAK,  ABILITY_SLUSH_RUSH
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
 
@@ -23486,7 +23486,7 @@ mondata SPECIES_SANDSLASH_ALOLAN, "-----"
     basefriendship 70
     growthrate GROWTH_MEDIUM_FAST
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_SNOW_CLOAK,  ABILITY_NONE
+    abilities ABILITY_ICE_BODY,  ABILITY_SLUSH_RUSH
     runchance 0
     colorflip BODY_COLOR_BLUE, 0
 
@@ -26622,7 +26622,7 @@ mondata SPECIES_GROWLITHE_HISUIAN, "-----"
     basefriendship 70
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_FIELD, EGG_GROUP_FIELD
-    abilities ABILITY_INTIMIDATE, ABILITY_FLASH_FIRE
+    abilities ABILITY_INTIMIDATE, ABILITY_ROCK_HEAD
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
 
@@ -26638,7 +26638,7 @@ mondata SPECIES_ARCANINE_HISUIAN, "-----"
     basefriendship 70
     growthrate GROWTH_SLOW
     egggroups EGG_GROUP_NONE, EGG_GROUP_NONE
-    abilities ABILITY_INTIMIDATE, ABILITY_FLASH_FIRE
+    abilities ABILITY_INTIMIDATE, ABILITY_ROCK_HEAD
     runchance 0
     colorflip BODY_COLOR_BROWN, 0
 
