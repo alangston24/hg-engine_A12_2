@@ -2927,49 +2927,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 13, 14, 13, 14, 15, 15, 14, 14, 16, 15, 16, 15
+walklevels 29, 29, 29, 29, 30, 30, 30, 30, 31, 31, 31, 31
 
 // morning encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
+pokemon SPECIES_CUBONE
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_ZORUA
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_SHUPPET
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
 
 // day encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
+pokemon SPECIES_CUBONE
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_ZORUA
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_SHUPPET
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
 
 // night encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATICATE
+pokemon SPECIES_CUBONE
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_ZORUA
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_SHUPPET
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
 
 // hoenn encounter slots
 pokemon SPECIES_ZIGZAGOON
@@ -3031,49 +3031,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 14, 14, 14, 14, 16, 16, 16, 16, 15, 14, 15, 14
+walklevels 29, 29, 29, 29, 30, 30, 30, 30, 31, 31, 31, 31
 
 // morning encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_CUBONE
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_ZORUA
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_SHUPPET
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
 
 // day encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_RATTATA
+pokemon SPECIES_CUBONE
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_ZORUA
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_SHUPPET
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
 
 // night encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_KOFFING
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
-pokemon SPECIES_ZUBAT
-pokemon SPECIES_MAGMAR
+pokemon SPECIES_CUBONE
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_ZORUA
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_SHUPPET
+monwithform SPECIES_ZIGZAGOON, 1
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_SHUPPET
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
+pokemon SPECIES_DARUMAKA
+pokemon SPECIES_CUBONE
 
 // hoenn encounter slots
 pokemon SPECIES_ZIGZAGOON
