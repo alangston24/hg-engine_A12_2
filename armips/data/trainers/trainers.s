@@ -1407,7 +1407,7 @@ trainerdata 31, "Morty"
         monwithform SPECIES_ZOROARK, 1
         item ITEM_FOCUS_SASH
         move MOVE_SHADOW_BALL
-        move MOVE_DARK_PULSE
+        move MOVE_PSYCHIC
         move MOVE_GRASS_KNOT
         move MOVE_ICY_WIND
         ability ABILITY_ILLUSION
