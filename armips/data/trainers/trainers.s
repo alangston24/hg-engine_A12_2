@@ -1034,7 +1034,7 @@ trainerdata 25, "Russel"
         // mon 3
         ivs 0
         abilityslot 0
-        level 27
+        level 17
         pokemon SPECIES_GEODUDE
         ballseal 0
     endparty
