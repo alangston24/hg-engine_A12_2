@@ -3101,7 +3101,7 @@ trainerdata 81, "Tori & Til"
         ivs 0
         abilityslot 0
         level 30
-        pokemon SPECIES_AZUMARILL
+        pokemon SPECIES_ONIX
         ballseal 0
 
         // mon 1
@@ -3114,14 +3114,14 @@ trainerdata 81, "Tori & Til"
         // mon 2
         ivs 0
         abilityslot 0
-        level 31
-        pokemon SPECIES_GALVANTULA
+        level 30
+        pokemon SPECIES_BEAUTIFLY
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 31
+        level 30
         monwithform SPECIES_LYCANROC, 1
         ballseal 0
 
