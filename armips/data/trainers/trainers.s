@@ -1327,7 +1327,7 @@ trainerdata 31, "Morty"
         // mon 0
         ivs 200
         abilityslot 0
-        level 33
+        level 36
         pokemon SPECIES_COFAGRIGUS
         item ITEM_AIR_BALLOON
         move MOVE_WILL_O_WISP
@@ -1346,7 +1346,7 @@ trainerdata 31, "Morty"
         // mon 1
         ivs 200
         abilityslot 0
-        level 33
+        level 36
         pokemon SPECIES_RUNERIGUS
         item ITEM_ASSAULT_VEST
         move MOVE_SHADOW_CLAW
@@ -1365,7 +1365,7 @@ trainerdata 31, "Morty"
         // mon 2
         ivs 200
         abilityslot 0
-        level 32
+        level 36
         pokemon SPECIES_MIMIKYU
         item ITEM_SCOPE_LENS
         move MOVE_SHADOW_CLAW
@@ -1384,7 +1384,7 @@ trainerdata 31, "Morty"
         // mon 3
         ivs 200
         abilityslot 0
-        level 32
+        level 36
         monwithform SPECIES_MAROWAK, 1
         item ITEM_MUSCLE_BAND
         move MOVE_SHADOW_BONE
@@ -1403,7 +1403,7 @@ trainerdata 31, "Morty"
         // mon 4
         ivs 200
         abilityslot 0
-        level 33
+        level 36
         monwithform SPECIES_ZOROARK, 1
         item ITEM_FOCUS_SASH
         move MOVE_SHADOW_BALL
@@ -1422,7 +1422,7 @@ trainerdata 31, "Morty"
         // mon 5
         ivs 200
         abilityslot 0
-        level 34
+        level 38
         pokemon SPECIES_GENGAR
         item ITEM_GENGARITE
         move MOVE_SHADOW_BALL
