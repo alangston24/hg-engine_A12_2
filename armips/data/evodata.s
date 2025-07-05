@@ -1261,7 +1261,7 @@ evodata SPECIES_EXEGGUTOR
 
 evodata SPECIES_CUBONE
     evolution EVO_LEVEL, 28, SPECIES_MAROWAK
-    evolution EVO_NONE, 0, SPECIES_NONE
+    evolutionwithform EVO_STONE, ITEM_DUSK_STONE, SPECIES_MAROWAK, 1
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
