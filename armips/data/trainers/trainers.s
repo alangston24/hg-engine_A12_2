@@ -7767,15 +7767,15 @@ trainerdata 233, "Eric"
         // mon 0
         ivs 0
         abilityslot 0
-        level 1
-        pokemon SPECIES_MEWTWO
+        level 24
+        pokemon SPECIES_GRIMER
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 1
-        pokemon SPECIES_LUGIA
+        level 24
+        pokemon SPECIES_PORYGON
         ballseal 0
     endparty
 
@@ -13803,12 +13803,12 @@ trainerdata 391, "Issac"
         // mon 0
         ivs 0
         abilityslot 0
-        level 12
+        level 25
         pokemon SPECIES_LICKITUNG
         move MOVE_LICK
-        move MOVE_SUPERSONIC
+        move MOVE_TAKE_DOWN
         move MOVE_CUT
-        move MOVE_NONE
+        move MOVE_ROLLOUT
         ballseal 0
     endparty
 
@@ -13828,14 +13828,14 @@ trainerdata 392, "Donald"
         // mon 0
         ivs 0
         abilityslot 0
-        level 11
+        level 24
         pokemon SPECIES_SLOWPOKE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 11
+        level 24
         pokemon SPECIES_SLOWPOKE
         ballseal 0
     endparty
@@ -13856,29 +13856,29 @@ trainerdata 393, "Teru"
         // mon 0
         ivs 0
         abilityslot 0
-        level 7
+        level 23
         pokemon SPECIES_MAGNEMITE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 11
+        level 22
         pokemon SPECIES_VOLTORB
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 7
-        pokemon SPECIES_MAGNEMITE
+        level 23
+        pokemon SPECIES_PORYGON
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 9
-        pokemon SPECIES_MAGNEMITE
+        level 22
+        pokemon SPECIES_BELDUM
         ballseal 0
     endparty
 
