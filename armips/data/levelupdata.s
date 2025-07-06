@@ -8923,7 +8923,7 @@ levelup SPECIES_TORTERRA
 levelup SPECIES_CHIMCHAR
     learnset MOVE_SCRATCH, 1
     learnset MOVE_LEER, 1
-    learnset MOVE_EMBER, 7
+    learnset MOVE_EMBER, 4
     learnset MOVE_TAUNT, 9
     learnset MOVE_FURY_SWIPES, 15
     learnset MOVE_FLAME_WHEEL, 17
@@ -11692,8 +11692,8 @@ levelup SPECIES_VICTINI
 
 levelup SPECIES_SNIVY
     learnset MOVE_TACKLE, 1
-    learnset MOVE_LEER, 4
-    learnset MOVE_RAZOR_LEAF, 7
+    learnset MOVE_LEER, 3
+    learnset MOVE_RAZOR_LEAF, 4
     learnset MOVE_WRAP, 10
     learnset MOVE_GROWTH, 13
     learnset MOVE_GIGA_DRAIN, 15
@@ -15432,7 +15432,7 @@ levelup SPECIES_DELPHOX
 levelup SPECIES_FROAKIE
     learnset MOVE_POUND, 1
     learnset MOVE_GROWL, 1
-    learnset MOVE_BUBBLE, 5
+    learnset MOVE_WATER_GUN, 4
     learnset MOVE_QUICK_ATTACK, 7
     learnset MOVE_SHADOW_SNEAK, 10
     learnset MOVE_WATER_PULSE, 14
@@ -15555,7 +15555,7 @@ levelup SPECIES_FLETCHLING
     learnset MOVE_QUICK_ATTACK, 5
     learnset MOVE_EMBER, 10
     learnset MOVE_PECK, 10
-    learnset MOVE_FLAIL, 15
+    learnset MOVE_FLAME_CHARGE, 13
     learnset MOVE_AGILITY, 19
     learnset MOVE_RAZOR_WIND, 25
     learnset MOVE_ACROBATICS, 28
@@ -15582,9 +15582,9 @@ levelup SPECIES_FLETCHINDER
     learnset MOVE_TACKLE, 1
     learnset MOVE_QUICK_ATTACK, 6
     learnset MOVE_PECK, 10
-    learnset MOVE_FLAIL, 15
-    learnset MOVE_AGILITY, 21
-    learnset MOVE_RAZOR_WIND, 27
+    learnset MOVE_AERIAL_ACE, 16
+    learnset MOVE_U_TURN, 21
+    learnset MOVE_FLAMETHROWER, 27
     learnset MOVE_ACROBATICS, 31
     learnset MOVE_NATURAL_GIFT, 31
     learnset MOVE_AERIAL_ACE, 36
@@ -15610,18 +15610,19 @@ levelup SPECIES_TALONFLAME
     learnset MOVE_QUICK_ATTACK, 6
     learnset MOVE_PECK, 10
     learnset MOVE_FLAIL, 15
-    learnset MOVE_AGILITY, 21
+    learnset MOVE_U_TURN, 21
     learnset MOVE_RAZOR_WIND, 27
-    learnset MOVE_NATURAL_GIFT, 31
+    learnset MOVE_FLAMETHROWER, 31
     learnset MOVE_ACROBATICS, 32
-    learnset MOVE_AERIAL_ACE, 38
-    learnset MOVE_FLAME_CHARGE, 39
-    learnset MOVE_ROOST, 46
-    learnset MOVE_ME_FIRST, 49
-    learnset MOVE_TAILWIND, 50
-    learnset MOVE_STEEL_WING, 57
-    learnset MOVE_FLY, 74
-    learnset MOVE_BRAVE_BIRD, 74
+    learnset MOVE_AERIAL_ACE, 34
+    learnset MOVE_FLAME_CHARGE, 36
+    learnset MOVE_ROOST, 38
+    learnset MOVE_ME_FIRST, 40
+    learnset MOVE_TAILWIND, 42
+    learnset MOVE_STEEL_WING, 44
+    learnset MOVE_FLY, 46
+    learnset MOVE_BRAVE_BIRD, 48
+    learnset MOVE_FLARE_BLITZ, 50
     terminatelearnset
 
 
