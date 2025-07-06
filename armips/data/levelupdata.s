@@ -919,9 +919,10 @@ levelup SPECIES_GOLBAT
     learnset MOVE_QUICK_GUARD, 34
     learnset MOVE_CONFUSE_RAY, 37
     learnset MOVE_HAZE, 40
-    learnset MOVE_VENOSHOCK, 45
-    learnset MOVE_LEECH_LIFE, 53
-    learnset MOVE_AIR_SLASH, 55
+    learnset MOVE_VENOSHOCK, 43
+    learnset MOVE_LEECH_LIFE, 46
+    learnset MOVE_AIR_SLASH, 49
+    learnset MOVE_CROSS_POISON, 50
     terminatelearnset
 
 
@@ -1732,10 +1733,9 @@ levelup SPECIES_SLOWPOKE
     learnset MOVE_CONFUSION, 12
     learnset MOVE_DISABLE, 15
     learnset MOVE_WATER_PULSE, 18
-    learnset MOVE_HEADBUTT, 21
+    learnset MOVE_PSYBEAM, 21
     learnset MOVE_ZEN_HEADBUTT, 24
-    learnset MOVE_AMNESIA, 27
-    learnset MOVE_SURF, 30
+    learnset MOVE_SCALD, 27
     learnset MOVE_SLACK_OFF, 33
     learnset MOVE_PSYCHIC, 36
     learnset MOVE_PSYCH_UP, 39
@@ -1757,13 +1757,12 @@ levelup SPECIES_SLOWBRO
     learnset MOVE_WATER_PULSE, 18
     learnset MOVE_HEADBUTT, 21
     learnset MOVE_ZEN_HEADBUTT, 24
-    learnset MOVE_AMNESIA, 27
-    learnset MOVE_SURF, 30
+    learnset MOVE_SCALD, 27
     learnset MOVE_SLACK_OFF, 33
     learnset MOVE_PSYCHIC, 36
-    learnset MOVE_PSYCH_UP, 41
-    learnset MOVE_RAIN_DANCE, 46
-    learnset MOVE_HEAL_PULSE, 51
+    learnset MOVE_RECOVER, 41
+    learnset MOVE_RAIN_DANCE, 44
+    learnset MOVE_HEAL_PULSE, 47
     terminatelearnset
 
 
@@ -3865,14 +3864,16 @@ levelup SPECIES_CROBAT
     learnset MOVE_POISON_FANG, 20
     learnset MOVE_AIR_CUTTER, 23
     learnset MOVE_BITE, 23
-    learnset MOVE_SWIFT, 24
-    learnset MOVE_MEAN_LOOK, 32
-    learnset MOVE_QUICK_GUARD, 34
-    learnset MOVE_CONFUSE_RAY, 37
-    learnset MOVE_HAZE, 40
-    learnset MOVE_VENOSHOCK, 45
-    learnset MOVE_LEECH_LIFE, 53
-    learnset MOVE_AIR_SLASH, 55
+    learnset MOVE_MEAN_LOOK, 26
+    learnset MOVE_QUICK_GUARD, 30
+    learnset MOVE_CONFUSE_RAY, 32
+    learnset MOVE_HAZE, 35
+    learnset MOVE_VENOSHOCK, 36
+    learnset MOVE_LEECH_LIFE, 39
+    learnset MOVE_AIR_SLASH, 42
+    learnset MOVE_CROSS_POISON, 45
+    learnest MOVE_ROOST, 48
+    learnset MOVE_TAILWIND, 51
     terminatelearnset
 
 
@@ -4184,7 +4185,7 @@ levelup SPECIES_MARILL
     learnset MOVE_ROLLOUT, 10
     learnset MOVE_SLAM, 12
     learnset MOVE_BOUNCE, 15
-    learnset MOVE_HELPING_HAND, 16
+    learnset MOVE_AQUA_JET, 16
     learnset MOVE_AQUA_TAIL, 19
     learnset MOVE_PLAY_ROUGH, 21
     learnset MOVE_AQUA_RING, 25
@@ -4212,14 +4213,14 @@ levelup SPECIES_AZUMARILL
     learnset MOVE_ROLLOUT, 10
     learnset MOVE_SLAM, 12
     learnset MOVE_BOUNCE, 15
-    learnset MOVE_HELPING_HAND, 16
+    learnset MOVE_AQUA_JET, 16
     learnset MOVE_AQUA_TAIL, 21
-    learnset MOVE_PLAY_ROUGH, 25
-    learnset MOVE_AQUA_RING, 30
-    learnset MOVE_RAIN_DANCE, 35
-    learnset MOVE_DOUBLE_EDGE, 43
-    learnset MOVE_HYDRO_PUMP, 47
-    learnset MOVE_SUPERPOWER, 48
+    learnset MOVE_PLAY_ROUGH, 24
+    learnset MOVE_AQUA_RING, 27
+    learnset MOVE_RAIN_DANCE, 30
+    learnset MOVE_DOUBLE_EDGE, 33
+    learnset MOVE_HYDRO_PUMP, 36
+    learnset MOVE_SUPERPOWER, 40
     terminatelearnset
 
 
@@ -4572,9 +4573,10 @@ levelup SPECIES_SLOWKING
     learnset MOVE_SURF, 30
     learnset MOVE_SLACK_OFF, 33
     learnset MOVE_PSYCHIC, 36
-    learnset MOVE_PSYCH_UP, 39
+    learnset MOVE_RECOVER, 39
     learnset MOVE_RAIN_DANCE, 42
     learnset MOVE_HEAL_PULSE, 45
+    learnset MOVE_HYDRO_PUMP, 46
     terminatelearnset
 
 
