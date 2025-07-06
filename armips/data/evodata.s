@@ -204,7 +204,7 @@ evodata SPECIES_BEEDRILL
     terminateevodata
 
 evodata SPECIES_PIDGEY
-    evolution EVO_LEVEL, 18, SPECIES_PIDGEOTTO
+    evolution EVO_LEVEL, 16, SPECIES_PIDGEOTTO
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -216,7 +216,7 @@ evodata SPECIES_PIDGEY
     terminateevodata
 
 evodata SPECIES_PIDGEOTTO
-    evolution EVO_LEVEL, 36, SPECIES_PIDGEOT
+    evolution EVO_LEVEL, 30, SPECIES_PIDGEOT
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -336,7 +336,7 @@ evodata SPECIES_RAICHU
     terminateevodata
 
 evodata SPECIES_SANDSHREW
-    evolution EVO_LEVEL, 22, SPECIES_SANDSLASH
+    evolution EVO_LEVEL, 21, SPECIES_SANDSLASH
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -900,7 +900,7 @@ evodata SPECIES_TENTACRUEL
     terminateevodata
 
 evodata SPECIES_GEODUDE
-    evolution EVO_LEVEL, 22, SPECIES_GRAVELER
+    evolution EVO_LEVEL, 20, SPECIES_GRAVELER
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -6699,7 +6699,7 @@ evodata SPECIES_LILLIPUP
     terminateevodata
 
 evodata SPECIES_HERDIER
-    evolution EVO_LEVEL, 32, SPECIES_STOUTLAND
+    evolution EVO_LEVEL, 30, SPECIES_STOUTLAND
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -7227,7 +7227,7 @@ evodata SPECIES_BASCULIN
     terminateevodata
 
 evodata SPECIES_SANDILE
-    evolution EVO_LEVEL, 29, SPECIES_KROKOROK
+    evolution EVO_LEVEL, 20, SPECIES_KROKOROK
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -7239,7 +7239,7 @@ evodata SPECIES_SANDILE
     terminateevodata
 
 evodata SPECIES_KROKOROK
-    evolution EVO_LEVEL, 40, SPECIES_KROOKODILE
+    evolution EVO_LEVEL, 36, SPECIES_KROOKODILE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -8619,8 +8619,8 @@ evodata SPECIES_VIVILLON
 terminateevodata
 
 evodata SPECIES_LITLEO
-    evolutionwithform EVO_LEVEL_MALE, 35, SPECIES_PYROAR, 0
-    evolutionwithform EVO_LEVEL_FEMALE, 35, SPECIES_PYROAR, 1
+    evolutionwithform EVO_LEVEL_MALE, 30, SPECIES_PYROAR, 0
+    evolutionwithform EVO_LEVEL_FEMALE, 30, SPECIES_PYROAR, 1
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -10468,7 +10468,7 @@ evodata SPECIES_GREEDENT
 terminateevodata
 
 evodata SPECIES_ROOKIDEE
-    evolution EVO_LEVEL, 18, SPECIES_CORVISQUIRE
+    evolution EVO_LEVEL, 16, SPECIES_CORVISQUIRE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -10480,7 +10480,7 @@ evodata SPECIES_ROOKIDEE
 terminateevodata
 
 evodata SPECIES_CORVISQUIRE
-    evolution EVO_LEVEL, 38, SPECIES_CORVIKNIGHT
+    evolution EVO_LEVEL, 36, SPECIES_CORVIKNIGHT
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -11802,7 +11802,7 @@ evodata SPECIES_SQUAWKABILLY
 terminateevodata
 
 evodata SPECIES_NACLI
-    evolution EVO_LEVEL, 23, SPECIES_NACLSTACK
+    evolution EVO_LEVEL, 21, SPECIES_NACLSTACK
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -11814,7 +11814,7 @@ evodata SPECIES_NACLI
 terminateevodata
 
 evodata SPECIES_NACLSTACK
-    evolution EVO_LEVEL, 38, SPECIES_GARGANACL
+    evolution EVO_LEVEL, 36, SPECIES_GARGANACL
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -13616,7 +13616,7 @@ evodata SPECIES_NINETALES_ALOLAN
 terminateevodata
 
 evodata SPECIES_DIGLETT_ALOLAN
-    evolutionwithform EVO_LEVEL, 23, SPECIES_DUGTRIO, 1
+    evolutionwithform EVO_LEVEL, 20, SPECIES_DUGTRIO, 1
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
@@ -13664,7 +13664,7 @@ evodata SPECIES_PERSIAN_ALOLAN
 terminateevodata
 
 evodata SPECIES_GEODUDE_ALOLAN
-    evolutionwithform EVO_LEVEL, 22, SPECIES_GRAVELER, 1
+    evolutionwithform EVO_LEVEL, 20, SPECIES_GRAVELER, 1
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
