@@ -556,7 +556,7 @@ levelup SPECIES_SANDSLASH
     learnset MOVE_CRUSH_CLAW, 0
     learnset MOVE_CRUSH_CLAW, 1
     learnset MOVE_STEALTH_ROCK, 1
-    llearnset MOVE_SCRATCH, 1
+    learnset MOVE_SCRATCH, 1
     learnset MOVE_DEFENSE_CURL, 1
     learnset MOVE_POISON_STING, 3
     learnset MOVE_SAND_ATTACK, 4
@@ -3872,8 +3872,9 @@ levelup SPECIES_CROBAT
     learnset MOVE_LEECH_LIFE, 39
     learnset MOVE_AIR_SLASH, 42
     learnset MOVE_CROSS_POISON, 45
-    learnest MOVE_ROOST, 48
+    learnset MOVE_ROOST, 48
     learnset MOVE_TAILWIND, 51
+    learnset MOVE_ACROBATICS, 53
     terminatelearnset
 
 
@@ -4121,7 +4122,7 @@ levelup SPECIES_AMPHAROS
     learnset MOVE_GROWL, 1
     learnset MOVE_THUNDER_WAVE, 1
     learnset MOVE_THUNDER_SHOCK, 1
-    llearnset MOVE_THUNDER_WAVE, 4
+    learnset MOVE_THUNDER_WAVE, 4
     learnset MOVE_THUNDER_SHOCK, 8
     learnset MOVE_COTTON_SPORE, 11
     learnset MOVE_CHARGE, 16
