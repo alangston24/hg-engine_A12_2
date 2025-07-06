@@ -1472,7 +1472,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 16, 16, 16, 17, 17, 17, 17, 18, 18, 18, 18, 18
+walklevels 14, 14, 14, 14, 15, 15, 15, 15, 16, 16, 16, 16
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
@@ -1784,7 +1784,7 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 17, 17, 17, 18, 18, 18, 18, 19, 19, 19, 19, 19
+walklevels 14, 14, 14, 14, 15, 15, 15, 15, 16, 16, 16, 16
 
 // morning encounter slots
 pokemon SPECIES_FURRET
@@ -1888,7 +1888,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 18, 18, 18, 19, 19, 19, 20, 20, 18, 20, 19, 20
+walklevels 14, 14, 14, 14, 15, 15, 15, 15, 16, 16, 16, 16
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
@@ -1992,7 +1992,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 21, 23, 21, 23, 19, 19, 21, 21, 23, 23, 23, 23
+walklevels 14, 14, 14, 14, 15, 15, 15, 15, 16, 16, 16, 16
 
 // morning encounter slots
 pokemon SPECIES_ZUBAT
