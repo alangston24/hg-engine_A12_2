@@ -131,28 +131,28 @@ trainerdata 4, "Wade"
         ivs 0
         abilityslot 0
         level 7
-        pokemon SPECIES_ROCKRUFF
+        pokemon SPECIES_KAKUNA
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 9
-        pokemon SPECIES_BIDOOF
+        level 8
+        pokemon SPECIES_WEEDLE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 8
-        pokemon SPECIES_ZIGZAGOON
+        level 9
+        pokemon SPECIES_JOLTIK
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
         level 9
-        pokemon SPECIES_STARLY
+        pokemon SPECIES_SENTRET
         ballseal 0
     endparty
 
@@ -686,7 +686,7 @@ trainerdata 20, "Falkner"
         ability ABILITY_EARLY_BIRD
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 6, 252, 0, 252, 0, 0
+        setevs 126, 126, 0, 126, 126, 0
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
@@ -695,7 +695,7 @@ trainerdata 20, "Falkner"
         // mon 1
         ivs 200
         abilityslot 0
-        level 15
+        level 14
         pokemon SPECIES_ROWLET
         item ITEM_MIRACLE_SEED
         move MOVE_SHADOW_SNEAK
@@ -705,7 +705,7 @@ trainerdata 20, "Falkner"
         ability ABILITY_OVERGROW
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 256, 256, 0, 0, 0, 6
+        setevs 126, 126, 63, 0, 63, 126
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 
@@ -714,7 +714,7 @@ trainerdata 20, "Falkner"
         // mon 2
         ivs 200
         abilityslot 0
-        level 15
+        level 14
         pokemon SPECIES_WATTREL
         item ITEM_ORAN_BERRY
         move MOVE_THUNDER_SHOCK
@@ -724,7 +724,7 @@ trainerdata 20, "Falkner"
         ability ABILITY_WIND_POWER
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 6, 0, 0, 252, 252, 0
+        setevs 60, 63, 60, 63, 126, 126
         nature NATURE_MODEST
         shinylock 0
         additionalflags 0 
@@ -733,17 +733,17 @@ trainerdata 20, "Falkner"
         // mon 3
         ivs 200
         abilityslot 0
-        level 15
+        level 14
         pokemon SPECIES_YANMA
         item ITEM_CHARTI_BERRY
         move MOVE_AIR_CUTTER
-        move MOVE_DOUBLE_TEAM
+        move MOVE_GROWL
         move MOVE_QUICK_ATTACK
         move MOVE_INFESTATION
         ability ABILITY_SPEED_BOOST
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 6, 0, 0, 252, 252, 0
+        setevs 126, 0, 126, 126, 126, 0
         nature NATURE_TIMID
         shinylock 0
         additionalflags 0 
@@ -752,7 +752,7 @@ trainerdata 20, "Falkner"
         // mon 4
         ivs 200
         abilityslot 0
-        level 15
+        level 13
         pokemon SPECIES_WINGULL
         item ITEM_ORAN_BERRY
         move MOVE_WATER_GUN
@@ -762,7 +762,7 @@ trainerdata 20, "Falkner"
         ability ABILITY_KEEN_EYE
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 256, 0, 126, 0, 0, 126
+        setevs 126, 0, 126, 0, 126, 126
         nature NATURE_TIMID
         shinylock 0
         additionalflags 0 
@@ -1839,7 +1839,7 @@ trainerdata 43, "Chow"
         ivs 0
         abilityslot 0
         level 9
-        pokemon SPECIES_CHANSEY
+        pokemon SPECIES_BELLSPROUT
         ballseal 0
 
         // mon 1
@@ -2085,7 +2085,7 @@ trainerdata 51, "Nico"
         ivs 0
         abilityslot 0
         level 10
-        pokemon SPECIES_CHANSEY
+        pokemon SPECIES_PIDGEY
         ballseal 0
 
         // mon 1
@@ -2154,7 +2154,7 @@ trainerdata 53, "Jin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 14
+        level 12
         pokemon SPECIES_BELLSPROUT
         ballseal 0
 
@@ -2197,13 +2197,13 @@ trainerdata 54, "Troy"
         ivs 0
         abilityslot 0
         level 12
-        pokemon SPECIES_CHANSEY
+        pokemon SPECIES_GEODUDE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 13
+        level 12
         pokemon SPECIES_BELLSPROUT
         ballseal 0
     endparty
@@ -2224,21 +2224,21 @@ trainerdata 55, "Neal"
         // mon 0
         ivs 0
         abilityslot 0
-        level 14
+        level 12
         pokemon SPECIES_STARLY
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 13
+        level 12
         pokemon SPECIES_EEVEE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 14
+        level 12
         pokemon SPECIES_BELLSPROUT
         ballseal 0
     endparty
