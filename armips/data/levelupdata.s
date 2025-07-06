@@ -27740,7 +27740,7 @@ levelup SPECIES_ROCKRUFF_OWN_TEMPO
 
 levelup SPECIES_LYCANROC_MIDNIGHT
     learnset MOVE_COUNTER, 0
-    learnset MOVE_REVENGE
+    learnset MOVE_REVENGE, 0
     learnset MOVE_FIRE_PUNCH, 0
     learnset MOVE_THUNDER_PUNCH, 0
     learnset MOVE_CLOSE_COMBAT, 1
