@@ -2096,7 +2096,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 23, 23, 22, 22, 23, 23, 24, 24, 24, 24, 24, 24
+walklevels 18, 18, 18, 19, 19, 19, 20, 20, 20, 20, 20, 20
 
 // morning encounter slots
 pokemon SPECIES_PHANTUMP
@@ -2200,7 +2200,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 24, 25, 23, 23, 24, 24, 25, 25, 26, 26, 26, 26
+walklevels 19, 19, 19, 20, 20, 20, 21, 21, 21, 21, 21, 21
 
 // morning encounter slots
 pokemon SPECIES_DURANT
@@ -2303,7 +2303,7 @@ rocksmashrate 0
 oldrodrate 25
 goodrodrate 50
 superrodrate 75
-walklevels 28, 28, 28, 28, 29, 29, 29, 29, 30, 30, 30, 30
+walklevels 19, 19, 19, 20, 20, 20, 21, 21, 21, 21, 21, 21
 
 // morning encounter slots
 pokemon SPECIES_HOUNDOUR
