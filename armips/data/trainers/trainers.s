@@ -1199,7 +1199,7 @@ trainerdata 30, "Whitney"
         // mon 0
         ivs 200
         abilityslot 0
-        level 28
+        level 26
         pokemon SPECIES_STARAVIA
         item ITEM_SHARP_BEAK
         move MOVE_QUICK_ATTACK
@@ -1218,7 +1218,7 @@ trainerdata 30, "Whitney"
         // mon 1
         ivs 200
         abilityslot 0
-        level 29
+        level 26
         pokemon SPECIES_CLEFABLE
         item ITEM_LEFTOVERS
         move MOVE_CHARGE_BEAM
@@ -1237,7 +1237,7 @@ trainerdata 30, "Whitney"
         // mon 2
         ivs 200
         abilityslot 0
-        level 28
+        level 26
         pokemon SPECIES_DUBWOOL
         item ITEM_MUSCLE_BAND
         move MOVE_TAKE_DOWN
@@ -1256,7 +1256,7 @@ trainerdata 30, "Whitney"
         // mon 3
         ivs 200
         abilityslot 0
-        level 28
+        level 26
         pokemon SPECIES_DRAMPA
         item ITEM_DRAGON_FANG
         move MOVE_DRAGON_BREATH
@@ -1275,7 +1275,7 @@ trainerdata 30, "Whitney"
         // mon 4
         ivs 200
         abilityslot 0
-        level 28
+        level 26
         pokemon SPECIES_HELIOLISK
         item ITEM_MAGNET
         move MOVE_DISCHARGE
@@ -1294,7 +1294,7 @@ trainerdata 30, "Whitney"
         // mon 5
         ivs 200
         abilityslot 0
-        level 30
+        level 27
         pokemon SPECIES_MILTANK
         item ITEM_SITRUS_BERRY
         move MOVE_HEADBUTT
