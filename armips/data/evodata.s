@@ -7131,7 +7131,7 @@ evodata SPECIES_LEAVANNY
     terminateevodata
 
 evodata SPECIES_VENIPEDE
-    evolution EVO_LEVEL, 22, SPECIES_WHIRLIPEDE
+    evolution EVO_LEVEL, 18, SPECIES_WHIRLIPEDE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
     evolution EVO_NONE, 0, SPECIES_NONE
