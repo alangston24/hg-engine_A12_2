@@ -6565,6 +6565,7 @@ levelup SPECIES_SHROOMISH
 levelup SPECIES_BRELOOM
     learnset MOVE_MACH_PUNCH, 0
     learnset MOVE_MACH_PUNCH, 1
+    learnset MOVE_AERIAL_ACE, 1
     learnset MOVE_ABSORB, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_STUN_SPORE, 1
@@ -6574,12 +6575,15 @@ levelup SPECIES_BRELOOM
     learnset MOVE_MEGA_DRAIN, 12
     learnset MOVE_HEADBUTT, 15
     learnset MOVE_FEINT, 19
-    learnset MOVE_COUNTER, 22
-    learnset MOVE_FORCE_PALM, 28
-    learnset MOVE_MIND_READER, 33
-    learnset MOVE_SKY_UPPERCUT, 39
-    learnset MOVE_SEED_BOMB, 44
-    learnset MOVE_DYNAMIC_PUNCH, 50
+    learnset MOVE_COUNTER, 21
+    learnset MOVE_FORCE_PALM, 24
+    learnset MOVE_DRAIN_PUNCH, 27
+    learnset MOVE_FIRE_PUNCH, 30
+    learnset MOVE_ICE_PUNCH, 30
+    learnset MOVE_THUNDER_PUNCH, 30
+    learnset MOVE_BRICK_BREAK, 34
+    learnset MOVE_SEED_BOMB, 38 
+    learnset MOVE_CLOSE_COMBAT, 41
     terminatelearnset
 
 
@@ -16606,48 +16610,50 @@ levelup SPECIES_PHANTUMP
     learnset MOVE_ASTONISH, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_CONFUSE_RAY, 1
-    learnset MOVE_BRANCH_POKE, 4
+    learnset MOVE_RAZOR_LEAF, 4
     learnset MOVE_ASTONISH, 5
-    learnset MOVE_CONFUSE_RAY, 12
-    learnset MOVE_LEECH_SEED, 15
-    learnset MOVE_GROWTH, 16
-    learnset MOVE_FEINT_ATTACK, 19
+    learnset MOVE_CONFUSE_RAY, 7
+    learnset MOVE_LEECH_SEED, 10
+    learnset MOVE_GROWTH, 13
+    learnset MOVE_FEINT_ATTACK, 16
     learnset MOVE_HEX, 20
     learnset MOVE_WILL_O_WISP, 23
     learnset MOVE_INGRAIN, 27
     learnset MOVE_CURSE, 30
-    learnset MOVE_HORN_LEECH, 40
-    learnset MOVE_PHANTOM_FORCE, 40
-    learnset MOVE_DESTINY_BOND, 43
-    learnset MOVE_FORESTS_CURSE, 44
+    learnset MOVE_HORN_LEECH, 33
+    learnset MOVE_SHADOW_CLAW, 36
+    learnset MOVE_DESTINY_BOND, 40
+    learnset MOVE_FORESTS_CURSE, 43
     learnset MOVE_WOOD_HAMMER, 46
     terminatelearnset
 
 
 levelup SPECIES_TREVENANT
     learnset MOVE_SHADOW_CLAW, 0
+    learnset MOVE_SEED_BOMB, 1
+    learnset MOVE_X_SCISSOR, 1
+    learnset MOVE_DRAIN_PUNCH, 1
+    learnset MOVE_ROCK_SLIDE, 1
     learnset MOVE_SHADOW_CLAW, 1
     learnset MOVE_ASTONISH, 1
     learnset MOVE_TACKLE, 1
-    learnset MOVE_BRANCH_POKE, 1
-    learnset MOVE_LEECH_SEED, 1
-    learnset MOVE_HORN_LEECH, 1
     learnset MOVE_CONFUSE_RAY, 1
-    learnset MOVE_GROWTH, 1
+    learnset MOVE_RAZOR_LEAF, 4
     learnset MOVE_ASTONISH, 5
-    learnset MOVE_CONFUSE_RAY, 12
-    learnset MOVE_GROWTH, 16
-    learnset MOVE_FEINT_ATTACK, 19
+    learnset MOVE_CONFUSE_RAY, 7
+    learnset MOVE_LEECH_SEED, 10
+    learnset MOVE_GROWTH, 13
+    learnset MOVE_FEINT_ATTACK, 16
     learnset MOVE_HEX, 20
     learnset MOVE_WILL_O_WISP, 23
-    learnset MOVE_LEECH_SEED, 23
     learnset MOVE_INGRAIN, 27
     learnset MOVE_CURSE, 30
-    learnset MOVE_HORN_LEECH, 40
-    learnset MOVE_PHANTOM_FORCE, 40
-    learnset MOVE_DESTINY_BOND, 43
-    learnset MOVE_FORESTS_CURSE, 44
+    learnset MOVE_HORN_LEECH, 33
+    learnset MOVE_SHADOW_CLAW, 36
+    learnset MOVE_DESTINY_BOND, 40
+    learnset MOVE_FORESTS_CURSE, 43
     learnset MOVE_WOOD_HAMMER, 46
+    learnset MOVE_SEED_BOMB, 49
     terminatelearnset
 
 
