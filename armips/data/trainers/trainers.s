@@ -1223,7 +1223,7 @@ trainerdata 30, "Whitney"
         item ITEM_LEFTOVERS
         move MOVE_CHARGE_BEAM
         move MOVE_ICY_WIND
-        move MOVE_DAZZLING_GLEAM
+        move MOVE_DISARMING_VOICE
         move MOVE_PSYBEAM
         ability ABILITY_MAGIC_GUARD
         ball ITEM_GREAT_BALL
@@ -1278,8 +1278,8 @@ trainerdata 30, "Whitney"
         level 26
         pokemon SPECIES_HELIOLISK
         item ITEM_MAGNET
-        move MOVE_DISCHARGE
-        move MOVE_HYPER_VOICE
+        move MOVE_SHOCK_WAVE
+        move MOVE_SWIFT
         move MOVE_SUNNY_DAY
         move MOVE_SOLAR_BEAM
         ability ABILITY_SOLAR_POWER
