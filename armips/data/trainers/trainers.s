@@ -1240,8 +1240,8 @@ trainerdata 30, "Whitney"
         level 26
         pokemon SPECIES_DUBWOOL
         item ITEM_MUSCLE_BAND
-        move MOVE_TAKE_DOWN
-        move MOVE_WILD_CHARGE
+        move MOVE_HEADBUTT
+        move MOVE_PAYBACK
         move MOVE_REST
         move MOVE_SLEEP_TALK
         ability ABILITY_FLUFFY
