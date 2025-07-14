@@ -1205,12 +1205,12 @@ trainerdata 30, "Whitney"
         move MOVE_QUICK_ATTACK
         move MOVE_AERIAL_ACE
         move MOVE_U_TURN
-        move MOVE_TAILWIND
+        move MOVE_ENDEAVOR
         ability ABILITY_INTIMIDATE
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 252, 0, 0, 0, 0
-        nature NATURE_ADAMANT
+        setevs 63, 126, 0, 63, 0, 252
+        nature NATURE_JOLLY
         shinylock 0
         additionalflags 0 
         ballseal 0
@@ -1247,7 +1247,7 @@ trainerdata 30, "Whitney"
         ability ABILITY_FLUFFY
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 0, 252, 0, 252, 0, 0
+        setevs 0, 126, 0, 126, 0, 0
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 
@@ -1278,14 +1278,14 @@ trainerdata 30, "Whitney"
         level 26
         pokemon SPECIES_HELIOLISK
         item ITEM_MAGNET
-        move MOVE_SHOCK_WAVE
+        move MOVE_CHARGE_BEAM
         move MOVE_SWIFT
         move MOVE_SUNNY_DAY
         move MOVE_SOLAR_BEAM
         ability ABILITY_SOLAR_POWER
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 126, 0, 126, 0, 0, 126
+        setevs 0, 0, 126, 0, 0, 126
         nature NATURE_TIMID
         shinylock 0
         additionalflags 0 
@@ -1304,7 +1304,7 @@ trainerdata 30, "Whitney"
         ability ABILITY_THICK_FAT
         ball ITEM_GREAT_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
-        setevs 252, 252, 0, 0, 0, 0
+        setevs 252, 0, 126, 0, 0, 126
         nature NATURE_ADAMANT
         shinylock 0
         additionalflags 0 
