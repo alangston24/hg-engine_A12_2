@@ -2792,21 +2792,21 @@ trainerdata 72, "Bryan"
         // mon 0
         ivs 50
         abilityslot 0
-        level 32
+        level 25
         pokemon SPECIES_PIDGEOTTO
         ballseal 0
 
         // mon 1
         ivs 50
         abilityslot 0
-        level 32
+        level 25
         pokemon SPECIES_TOGETIC
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 33
+        level 25
         pokemon SPECIES_CORVISQUIRE
         ballseal 0
     endparty
@@ -2876,21 +2876,21 @@ trainerdata 74, "Ivan"
         // mon 0
         ivs 0
         abilityslot 0
-        level 30
+        level 24
         pokemon SPECIES_DUGTRIO
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 31
+        level 24
         pokemon SPECIES_GOLBAT
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 32
+        level 24
         monwithform SPECIES_DUGTRIO, 1
         ballseal 0
     endparty
@@ -2911,21 +2911,21 @@ trainerdata 75, "Elliot"
         // mon 0
         ivs 0
         abilityslot 0
-        level 31
+        level 24
         pokemon SPECIES_SANDSLASH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 30
+        level 25
         pokemon SPECIES_AZUMARILL
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 30
+        level 24
         pokemon SPECIES_BIBAREL
         ballseal 0
     endparty
@@ -2946,28 +2946,28 @@ trainerdata 76, "Brooke"
         // mon 0
         ivs 0
         abilityslot 0
-        level 29
+        level 24
         pokemon SPECIES_RAICHU
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 29
+        level 25
         pokemon SPECIES_LINOONE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 29
+        level 25
         pokemon SPECIES_MIGHTYENA
         ballseal 0
 
         // mon 0
         ivs 0
         abilityslot 0
-        level 29
+        level 25
         pokemon SPECIES_XATU
         ballseal 0
     endparty
@@ -2988,14 +2988,14 @@ trainerdata 77, "Kim"
         // mon 0
         ivs 0
         abilityslot 0
-        level 30
+        level 24
         pokemon SPECIES_NINETALES
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 30
+        level 25
         pokemon SPECIES_SPEAROW
         ballseal 0
     endparty
@@ -3072,14 +3072,14 @@ trainerdata 80, "Dirk"
         // mon 0
         ivs 0
         abilityslot 0
-        level 34
+        level 24
         pokemon SPECIES_GROWLITHE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 34
+        level 26
         pokemon SPECIES_GROWLITHE
         ballseal 0
     endparty
@@ -12817,7 +12817,7 @@ trainerdata 360, "Arnie"
         // mon 0
         ivs 0
         abilityslot 0
-        level 36
+        level 28
         pokemon SPECIES_VENONAT
         ballseal 0
     endparty
@@ -15776,28 +15776,28 @@ trainerdata 454, "Irwin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 22
+        level 24
         pokemon SPECIES_VOLTORB
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 26
+        level 25
         pokemon SPECIES_VOLTORB
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 28
+        level 26
         pokemon SPECIES_VOLTORB
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 34
+        level 27
         pokemon SPECIES_VOLTORB
         ballseal 0
     endparty
@@ -21415,7 +21415,7 @@ trainerdata 619, "Walt"
         // mon 1
         ivs 0
         abilityslot 0
-        level 32
+        level 25
         pokemon SPECIES_MAGMAR
         ballseal 0
     endparty
