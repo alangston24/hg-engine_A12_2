@@ -242,28 +242,28 @@ trainerdata 7, "Irwin"
         // mon 0
         ivs 0
         abilityslot 0
-        level 28
+        level 22
         pokemon SPECIES_ELECTRODE
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 30
+        level 23
         pokemon SPECIES_ELECTRODE
         ballseal 0
 
         // mon 2
         ivs 0
         abilityslot 0
-        level 32
+        level 24
         pokemon SPECIES_ELECTRODE
         ballseal 0
 
         // mon 3
         ivs 0
         abilityslot 0
-        level 34
+        level 25
         monwithform SPECIES_ELECTRODE, 1
         ballseal 0
     endparty
@@ -3016,14 +3016,14 @@ trainerdata 78, "Arnie"
         // mon 0
         ivs 0
         abilityslot 0
-        level 33
+        level 25
         pokemon SPECIES_VENOMOTH
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 33
+        level 24
         pokemon SPECIES_NOCTOWL
         ballseal 0
     endparty
@@ -13711,14 +13711,14 @@ trainerdata 388, "Walt"
         // mon 0
         ivs 0
         abilityslot 0
-        level 31
+        level 25
         pokemon SPECIES_MAGMAR
         ballseal 0
 
         // mon 1
         ivs 0
         abilityslot 0
-        level 31
+        level 25
         pokemon SPECIES_CHARMELEON
         ballseal 0
     endparty
