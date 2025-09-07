@@ -14773,3 +14773,106 @@ pokemon SPECIES_POLIWAG
 pokemon SPECIES_MAGIKARP
 
 .close
+
+encounterdata  142   // Route 201
+
+walkrate 0
+surfrate 10
+rocksmashrate 0
+oldrodrate 25
+goodrodrate 50
+superrodrate 75
+walklevels 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3
+
+// morning encounter slots
+pokemon SPECIES_STARLY
+pokemon SPECIES_BIDOOF
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_STARLY
+pokemon SPECIES_BIDOOF
+pokemon SPECIES_RIOLU
+pokemon SPECIES_STARLY
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_RIOLU
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_RIOLU
+
+// day encounter slots
+pokemon SPECIES_STARLY
+pokemon SPECIES_BIDOOF
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_STARLY
+pokemon SPECIES_BIDOOF
+pokemon SPECIES_RIOLU
+pokemon SPECIES_STARLY
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_RIOLU
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_RIOLU
+
+// night encounter slots
+pokemon SPECIES_STARLY
+pokemon SPECIES_BIDOOF
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_STARLY
+pokemon SPECIES_BIDOOF
+pokemon SPECIES_RIOLU
+pokemon SPECIES_STARLY
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_RIOLU
+pokemon SPECIES_KRICKETOT
+pokemon SPECIES_RIOLU
+
+// hoenn encounter slots
+pokemon SPECIES_NONE
+pokemon SPECIES_NONE
+
+// sinnoh encounter slots
+pokemon SPECIES_NONE
+pokemon SPECIES_NONE
+
+// surf encounters
+encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_GOLDEEN, 5, 5
+encounter SPECIES_SEAKING, 10, 10
+encounter SPECIES_SEAKING, 10, 10
+encounter SPECIES_SEAKING, 10, 10
+
+// rock smash encounters
+encounter SPECIES_NONE, 0, 0
+encounter SPECIES_NONE, 0, 0
+
+// old rod encounters
+encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_MAGIKARP, 10, 10
+encounter SPECIES_GOLDEEN, 10, 10
+encounter SPECIES_GOLDEEN, 10, 10
+
+// good rod encounters
+encounter SPECIES_MAGIKARP, 20, 20
+encounter SPECIES_GOLDEEN, 20, 20
+encounter SPECIES_GOLDEEN, 20, 20
+encounter SPECIES_GOLDEEN, 20, 20
+encounter SPECIES_GOLDEEN, 20, 20
+
+// super rod encounters
+encounter SPECIES_GOLDEEN, 40, 40
+encounter SPECIES_GOLDEEN, 40, 40
+encounter SPECIES_MAGIKARP, 40, 40
+encounter SPECIES_SEAKING, 40, 40
+encounter SPECIES_MAGIKARP, 40, 40
+
+// swarm grass
+pokemon SPECIES_NONE
+// swarm surf
+pokemon SPECIES_GOLDEEN
+// swarm good rod
+pokemon SPECIES_GOLDEEN
+// swarm super rod
+pokemon SPECIES_MAGIKARP
+
+.close
