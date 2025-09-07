@@ -14776,7 +14776,7 @@ pokemon SPECIES_MAGIKARP
 
 encounterdata  142   // Route 201
 
-walkrate 0
+walkrate 25
 surfrate 10
 rocksmashrate 0
 oldrodrate 25
