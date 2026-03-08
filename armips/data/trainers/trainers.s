@@ -33,7 +33,7 @@ trainerdata 0, "-"
 trainerdata 1, "Silver"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_RIVAL
-    nummons 3
+    nummons 4
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -68,7 +68,7 @@ trainerdata 1, "Silver"
         ivs 30
         abilityslot 0
         level 20
-        pokemon SPECIES_SERVINE
+        pokemon SPECIES_BAYLEEF
         ballseal 0
     endparty
 
@@ -89,7 +89,7 @@ trainerdata 2, "Silver"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_FROAKIE
+        pokemon SPECIES_TOTODILE
         ballseal 0
     endparty
 
@@ -110,7 +110,7 @@ trainerdata 3, "Silver"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_SNIVY
+        pokemon SPECIES_CHIKORITA
         ballseal 0
     endparty
 
@@ -320,7 +320,7 @@ trainerdata 9, "Elaine"
 trainerdata 10, "Amy & Mimi"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_TWINS
-    nummons 2
+    nummons 4
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -397,7 +397,7 @@ trainerdata 11, "Mickey"
 trainerdata 12, "Grunt"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_TEAM_ROCKET
-    nummons 3
+    nummons 4
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -1042,7 +1042,7 @@ trainerdata 25, "Russel"
 trainerdata 26, "Roland"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_CAMPER
-    nummons 2
+    nummons 3
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -2496,7 +2496,7 @@ trainerdata 63, "Mickey"
     endparty
 
 trainerdata 64, "Ian"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_YOUNGSTER
     nummons 2
     item ITEM_NONE
@@ -2931,7 +2931,7 @@ trainerdata 75, "Elliot"
     endparty
 
 trainerdata 76, "Brooke"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_PICNICKER
     nummons 4
     item ITEM_NONE
@@ -3003,7 +3003,7 @@ trainerdata 77, "Kim"
 trainerdata 78, "Arnie"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_BUG_CATCHER
-    nummons 1
+    nummons 2
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -4369,6 +4369,7 @@ trainerdata 118, "Kate"
         abilityslot 0
         level 25
         pokemon SPECIES_CLEFAIRY
+        ballseal 0
     endparty
 
 trainerdata 119, "Fran"
@@ -9310,7 +9311,7 @@ trainerdata 263, "Silver"
         ivs 80
         abilityslot 0
         level 22
-        pokemon SPECIES_SERVINE
+        pokemon SPECIES_BAYLEEF
         move MOVE_SYNTHESIS
         move MOVE_REFLECT
         move MOVE_MAGICAL_LEAF
@@ -9390,7 +9391,7 @@ trainerdata 264, "Silver"
         ivs 160
         abilityslot 0
         level 40
-        pokemon SPECIES_SERPERIOR
+        pokemon SPECIES_MEGANIUM
         move MOVE_REFLECT
         move MOVE_PETAL_DANCE
         move MOVE_POISON_POWDER
@@ -9415,14 +9416,14 @@ trainerdata 265, "Silver"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_CHIMCHAR
+        pokemon SPECIES_CYNDAQUIL
         ballseal 0
     endparty
 
 trainerdata 266, "Silver"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_RIVAL
-    nummons 3
+    nummons 4
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -9457,7 +9458,7 @@ trainerdata 266, "Silver"
         ivs 30
         abilityslot 0
         level 20
-        pokemon SPECIES_MONFERNO
+        pokemon SPECIES_QUILAVA
         ballseal 0
     endparty
 
@@ -9511,7 +9512,7 @@ trainerdata 267, "Silver"
         ivs 80
         abilityslot 0
         level 22
-        pokemon SPECIES_MONFERNO
+        pokemon SPECIES_QUILAVA
         move MOVE_FLAME_WHEEL
         move MOVE_SMOKESCREEN
         move MOVE_EMBER
@@ -9591,7 +9592,7 @@ trainerdata 268, "Silver"
         ivs 160
         abilityslot 0
         level 40
-        pokemon SPECIES_INFERNAPE
+        pokemon SPECIES_TYPHLOSION
         move MOVE_LAVA_PLUME
         move MOVE_SWIFT
         move MOVE_QUICK_ATTACK
@@ -9602,7 +9603,7 @@ trainerdata 268, "Silver"
 trainerdata 269, "Silver"
     trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_RIVAL
-    nummons 3
+    nummons 4
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -9637,7 +9638,7 @@ trainerdata 269, "Silver"
         ivs 30
         abilityslot 0
         level 20
-        pokemon SPECIES_FROGADIER
+        pokemon SPECIES_CROCONAW
         ballseal 0
     endparty
 
@@ -9691,7 +9692,7 @@ trainerdata 270, "Silver"
         ivs 80
         abilityslot 0
         level 22
-        pokemon SPECIES_FROGADIER
+        pokemon SPECIES_CROCONAW
         move MOVE_SCARY_FACE
         move MOVE_ICE_FANG
         move MOVE_WATER_GUN
@@ -9760,7 +9761,7 @@ trainerdata 271, "Silver"
         ivs 120
         abilityslot 0
         level 32
-        pokemon SPECIES_GRENINJA
+        pokemon SPECIES_FERALIGATR
         move MOVE_ICE_FANG
         move MOVE_WATER_GUN
         move MOVE_CRUNCH
@@ -9840,7 +9841,7 @@ trainerdata 272, "Silver"
         ivs 160
         abilityslot 0
         level 40
-        pokemon SPECIES_GRENINJA
+        pokemon SPECIES_FERALIGATR
         move MOVE_WATERFALL
         move MOVE_ICE_FANG
         move MOVE_CRUNCH
@@ -10129,6 +10130,7 @@ trainerdata 281, "Richard"
         abilityslot 0
         level 32
         pokemon SPECIES_CHARMELEON
+        ballseal 0
     endparty
 
 trainerdata 282, "Ned"
@@ -10316,7 +10318,7 @@ trainerdata 285, "Silver"
         ivs 200
         abilityslot 0
         level 50
-        pokemon SPECIES_SERPERIOR
+        pokemon SPECIES_MEGANIUM
         move MOVE_PETAL_DANCE
         move MOVE_POISON_POWDER
         move MOVE_SYNTHESIS
@@ -10396,7 +10398,7 @@ trainerdata 286, "Silver"
         ivs 200
         abilityslot 0
         level 50
-        pokemon SPECIES_INFERNAPE
+        pokemon SPECIES_TYPHLOSION
         move MOVE_FLAMETHROWER
         move MOVE_QUICK_ATTACK
         move MOVE_FLAME_WHEEL
@@ -10476,7 +10478,7 @@ trainerdata 287, "Silver"
         ivs 200
         abilityslot 0
         level 50
-        pokemon SPECIES_GRENINJA
+        pokemon SPECIES_FERALIGATR
         move MOVE_WATERFALL
         move MOVE_ICE_FANG
         move MOVE_CRUNCH
@@ -10545,7 +10547,7 @@ trainerdata 288, "Silver"
         ivs 120
         abilityslot 0
         level 34
-        pokemon SPECIES_SERPERIOR
+        pokemon SPECIES_MEGANIUM
         move MOVE_REFLECT
         move MOVE_SYNTHESIS
         move MOVE_POISON_POWDER
@@ -10614,7 +10616,7 @@ trainerdata 289, "Silver"
         ivs 120
         abilityslot 0
         level 34
-        pokemon SPECIES_MONFERNO
+        pokemon SPECIES_QUILAVA
         move MOVE_SMOKESCREEN
         move MOVE_SWIFT
         move MOVE_QUICK_ATTACK
@@ -13634,7 +13636,7 @@ trainerdata 385, "Dara & Dia"
     endparty
 
 trainerdata 386, "Greg"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_PSYCHIC_M
     nummons 1
     item ITEM_NONE
@@ -13651,6 +13653,7 @@ trainerdata 386, "Greg"
         abilityslot 0
         level 32
         pokemon SPECIES_HYPNO
+        ballseal 0
     endparty
 
 trainerdata 387, "Amy & Mimi"
@@ -13918,7 +13921,7 @@ trainerdata 394, "Mickey"
     endparty
 
 trainerdata 395, "Mark"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_PSYCHIC_M
     nummons 3
     item ITEM_NONE
@@ -17155,7 +17158,7 @@ trainerdata 489, "Silver"
         ivs 250
         abilityslot 0
         level 60
-        pokemon SPECIES_SERPERIOR
+        pokemon SPECIES_MEGANIUM
         move MOVE_PETAL_DANCE
         move MOVE_BODY_SLAM
         move MOVE_LIGHT_SCREEN
@@ -17235,7 +17238,7 @@ trainerdata 490, "Silver"
         ivs 250
         abilityslot 0
         level 60
-        pokemon SPECIES_INFERNAPE
+        pokemon SPECIES_TYPHLOSION
         move MOVE_ROLLOUT
         move MOVE_FLAMETHROWER
         move MOVE_WILL_O_WISP
@@ -17320,7 +17323,7 @@ trainerdata 491, "Silver"
         ivs 250
         abilityslot 0
         level 60
-        pokemon SPECIES_GRENINJA
+        pokemon SPECIES_FERALIGATR
         item ITEM_NONE
         move MOVE_CRUNCH
         move MOVE_AQUA_TAIL
@@ -23618,7 +23621,7 @@ trainerdata 679, "Callie"
     endparty
 
 trainerdata 680, "Kassandra"
-    trainermontype TRAINER_DATA_TYPE_MOVES
+    trainermontype TRAINER_DATA_TYPE_NOTHING
     trainerclass TRAINERCLASS_BEAUTY
     nummons 2
     item ITEM_NONE
@@ -23635,6 +23638,7 @@ trainerdata 680, "Kassandra"
         abilityslot 0
         level 30
         pokemon SPECIES_TOGEKISS
+        ballseal 0
 
         // mon 1
         ivs 0
@@ -24918,7 +24922,7 @@ trainerdata 712, "Falkner"
     endparty
 
 trainerdata 713, "Bugsy"
-    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES
     trainerclass TRAINERCLASS_LEADER_BUGSY
     nummons 6
     item ITEM_FULL_RESTORE
@@ -26472,7 +26476,7 @@ trainerdata 735, "Silver"
         ivs 250
         abilityslot 0
         level 60
-        pokemon SPECIES_SERPERIOR
+        pokemon SPECIES_MEGANIUM
         item ITEM_NONE
         move MOVE_PETAL_DANCE
         move MOVE_BODY_SLAM
@@ -26522,7 +26526,7 @@ trainerdata 736, "Silver"
         ivs 250
         abilityslot 0
         level 60
-        pokemon SPECIES_INFERNAPE
+        pokemon SPECIES_TYPHLOSION
         item ITEM_NONE
         move MOVE_ROLLOUT
         move MOVE_FLAMETHROWER
@@ -26572,7 +26576,7 @@ trainerdata 737, "Silver"
         ivs 250
         abilityslot 0
         level 60
-        pokemon SPECIES_GRENINJA
+        pokemon SPECIES_FERALIGATR
         item ITEM_NONE
         move MOVE_CRUNCH
         move MOVE_AQUA_TAIL
