@@ -1323,7 +1323,7 @@ trainerdata 31, "Morty"
     battletype DOUBLE_BATTLE
     endentry
 
-    party 30
+    party 31
         // mon 0
         ivs 200
         abilityslot 0
