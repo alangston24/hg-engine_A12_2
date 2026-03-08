@@ -3594,7 +3594,7 @@ levelup SPECIES_QUILAVA
 
 
 levelup SPECIES_TYPHLOSION
-    learnset MOVE_EXPLOSION, 0
+    learnset MOVE_ERUPTION, 0
     learnset MOVE_LEER, 1
     learnset MOVE_TACKLE, 1
     learnset MOVE_SMOKESCREEN, 3
