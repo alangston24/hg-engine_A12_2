@@ -17454,7 +17454,7 @@ trainerdata 495, "Boy"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_CHIMCHAR
+        pokemon SPECIES_CYNDAQUIL
         ballseal 0
     endparty
 
@@ -17475,7 +17475,7 @@ trainerdata 496, "Boy"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_FROAKIE
+        pokemon SPECIES_TOTODILE
         ballseal 0
     endparty
 
@@ -17496,7 +17496,7 @@ trainerdata 497, "Boy"
         ivs 0
         abilityslot 0
         level 5
-        pokemon SPECIES_SNIVY
+        pokemon SPECIES_CHIKORITA
         ballseal 0
     endparty
 
