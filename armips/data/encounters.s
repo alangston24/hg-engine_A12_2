@@ -221,8 +221,8 @@ encounterdata   2   // Cherrygrove City
 walkrate 0
 surfrate 15
 rocksmashrate 0
-oldrodrate 25
-goodrodrate 50
+oldrodrate 75
+goodrodrate 75
 superrodrate 75
 walklevels 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
 
