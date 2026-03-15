@@ -70325,43 +70325,43 @@
         "Move": "MOVE_GROWL"
       },
       {
-        "Level": 5,
+        "Level": 4,
         "Move": "MOVE_QUICK_ATTACK"
       },
       {
-        "Level": 9,
+        "Level": 7,
         "Move": "MOVE_WING_ATTACK"
       },
       {
-        "Level": 13,
+        "Level": 10,
         "Move": "MOVE_DOUBLE_TEAM"
       },
       {
-        "Level": 17,
+        "Level": 13,
         "Move": "MOVE_ENDEAVOR"
       },
       {
-        "Level": 21,
+        "Level": 16,
         "Move": "MOVE_WHIRLWIND"
       },
       {
-        "Level": 25,
+        "Level": 19,
         "Move": "MOVE_AERIAL_ACE"
       },
       {
-        "Level": 29,
+        "Level": 22,
         "Move": "MOVE_TAKE_DOWN"
       },
       {
-        "Level": 33,
+        "Level": 25,
         "Move": "MOVE_AGILITY"
       },
       {
-        "Level": 37,
+        "Level": 27,
         "Move": "MOVE_BRAVE_BIRD"
       },
       {
-        "Level": 41,
+        "Level": 30,
         "Move": "MOVE_FINAL_GAMBIT"
       }
     ],
@@ -70452,43 +70452,43 @@
         "Move": "MOVE_GROWL"
       },
       {
-        "Level": 1,
+        "Level": 4,
         "Move": "MOVE_QUICK_ATTACK"
       },
       {
-        "Level": 9,
+        "Level": 7,
         "Move": "MOVE_WING_ATTACK"
       },
       {
-        "Level": 13,
+        "Level": 10,
         "Move": "MOVE_DOUBLE_TEAM"
       },
       {
-        "Level": 18,
+        "Level": 13,
         "Move": "MOVE_ENDEAVOR"
       },
       {
-        "Level": 23,
+        "Level": 16,
         "Move": "MOVE_WHIRLWIND"
       },
       {
-        "Level": 28,
+        "Level": 19,
         "Move": "MOVE_AERIAL_ACE"
       },
       {
-        "Level": 33,
+        "Level": 22,
         "Move": "MOVE_TAKE_DOWN"
       },
       {
-        "Level": 38,
+        "Level": 25,
         "Move": "MOVE_AGILITY"
       },
       {
-        "Level": 43,
+        "Level": 27,
         "Move": "MOVE_BRAVE_BIRD"
       },
       {
-        "Level": 48,
+        "Level": 30,
         "Move": "MOVE_FINAL_GAMBIT"
       }
     ],
@@ -70577,10 +70577,6 @@
       },
       {
         "Level": 1,
-        "Move": "MOVE_WING_ATTACK"
-      },
-      {
-        "Level": 1,
         "Move": "MOVE_TACKLE"
       },
       {
@@ -70588,40 +70584,72 @@
         "Move": "MOVE_GROWL"
       },
       {
-        "Level": 1,
+        "Level": 4,
         "Move": "MOVE_QUICK_ATTACK"
       },
       {
-        "Level": 13,
+        "Level": 7,
+        "Move": "MOVE_WING_ATTACK"
+      },
+      {
+        "Level": 10,
         "Move": "MOVE_DOUBLE_TEAM"
       },
       {
-        "Level": 18,
+        "Level": 13,
         "Move": "MOVE_ENDEAVOR"
       },
       {
-        "Level": 23,
+        "Level": 16,
         "Move": "MOVE_WHIRLWIND"
       },
       {
-        "Level": 28,
+        "Level": 19,
         "Move": "MOVE_AERIAL_ACE"
       },
       {
-        "Level": 33,
+        "Level": 22,
         "Move": "MOVE_TAKE_DOWN"
       },
       {
-        "Level": 41,
+        "Level": 25,
         "Move": "MOVE_AGILITY"
       },
       {
-        "Level": 49,
+        "Level": 27,
         "Move": "MOVE_BRAVE_BIRD"
       },
       {
-        "Level": 57,
+        "Level": 30,
         "Move": "MOVE_FINAL_GAMBIT"
+      },
+      {
+        "Level": 32,
+        "Move": "MOVE_ACROBATICS"
+      },
+      {
+        "Level": 34,
+        "Move": "MOVE_U-TURN"
+      },
+      {
+        "Level": 36,
+        "Move": "MOVE_TAILWIND"
+      },
+      {
+        "Level": 38,
+        "Move": "MOVE_DOUBLE_EDGE"
+      },
+      {
+        "Level": 40,
+        "Move": "MOVE_SUNNY_DAY"
+      },
+      {
+        "Level": 40,
+        "Move": "MOVE_RAIN_DANCE"
+      },
+      {
+        "Level": 42,
+        "Move": "MOVE_SKY_ATTACK"
       }
     ],
     "MachineMoves": [
@@ -112580,43 +112608,47 @@
         "Move": "MOVE_PECK"
       },
       {
-        "Level": 5,
+        "Level": 4,
         "Move": "MOVE_QUICK_ATTACK"
       },
       {
-        "Level": 10,
+        "Level": 7,
         "Move": "MOVE_EMBER"
       },
       {
-        "Level": 15,
+        "Level": 10,
         "Move": "MOVE_FLAIL"
+      },
+      {
+        "Level": 13,
+        "Move": "MOVE_AGILITY"
+      },
+      {
+        "Level": 16,
+        "Move": "MOVE_FLAME_CHARGE"
       },
       {
         "Level": 20,
         "Move": "MOVE_ACROBATICS"
       },
       {
-        "Level": 25,
-        "Move": "MOVE_AGILITY"
-      },
-      {
-        "Level": 30,
+        "Level": 22,
         "Move": "MOVE_AERIAL_ACE"
       },
       {
-        "Level": 35,
+        "Level": 25,
         "Move": "MOVE_TAILWIND"
       },
       {
-        "Level": 40,
+        "Level": 27,
         "Move": "MOVE_STEEL_WING"
       },
       {
-        "Level": 45,
+        "Level": 30,
         "Move": "MOVE_ROOST"
       },
       {
-        "Level": 50,
+        "Level": 32,
         "Move": "MOVE_FLY"
       }
     ],
@@ -112688,57 +112720,57 @@
         "Level": 0,
         "Move": "MOVE_FLAME_CHARGE"
       },
-      {
+            {
         "Level": 1,
         "Move": "MOVE_GROWL"
-      },
-      {
-        "Level": 1,
-        "Move": "MOVE_EMBER"
       },
       {
         "Level": 1,
         "Move": "MOVE_PECK"
       },
       {
-        "Level": 1,
+        "Level": 4,
         "Move": "MOVE_QUICK_ATTACK"
       },
       {
-        "Level": 1,
-        "Move": "MOVE_FEINT"
+        "Level": 7,
+        "Move": "MOVE_EMBER"
       },
       {
-        "Level": 15,
+        "Level": 10,
         "Move": "MOVE_FLAIL"
       },
       {
-        "Level": 22,
-        "Move": "MOVE_ACROBATICS"
-      },
-      {
-        "Level": 29,
+        "Level": 13,
         "Move": "MOVE_AGILITY"
       },
       {
-        "Level": 36,
+        "Level": 16,
+        "Move": "MOVE_FLAME_CHARGE"
+      },
+      {
+        "Level": 20,
+        "Move": "MOVE_ACROBATICS"
+      },
+      {
+        "Level": 22,
         "Move": "MOVE_AERIAL_ACE"
       },
       {
-        "Level": 43,
+        "Level": 25,
         "Move": "MOVE_TAILWIND"
       },
       {
-        "Level": 50,
+        "Level": 27,
         "Move": "MOVE_STEEL_WING"
       },
       {
-        "Level": 57,
+        "Level": 30,
         "Move": "MOVE_ROOST"
       },
       {
-        "Level": 64,
-        "Move": "MOVE_FLY"
+        "Level": 32,
+        "Move": "MOVE_BRAVE_BIRD"
       }
     ],
     "MachineMoves": [
@@ -112811,68 +112843,76 @@
   "SPECIES_TALONFLAME": {
     "LevelMoves": [
       {
-        "Level": 1,
-        "Move": "MOVE_GROWL"
+        "Level": 0,
+        "Move": "MOVE_FLARE_BLITZ"
       },
       {
         "Level": 1,
-        "Move": "MOVE_EMBER"
+        "Move": "MOVE_GROWL"
       },
       {
         "Level": 1,
         "Move": "MOVE_PECK"
       },
       {
-        "Level": 1,
+        "Level": 4,
         "Move": "MOVE_QUICK_ATTACK"
       },
       {
-        "Level": 1,
-        "Move": "MOVE_FEINT"
+        "Level": 7,
+        "Move": "MOVE_EMBER"
       },
       {
-        "Level": 1,
-        "Move": "MOVE_FLARE_BLITZ"
-      },
-      {
-        "Level": 1,
-        "Move": "MOVE_FLAME_CHARGE"
-      },
-      {
-        "Level": 15,
+        "Level": 10,
         "Move": "MOVE_FLAIL"
       },
       {
-        "Level": 22,
-        "Move": "MOVE_ACROBATICS"
-      },
-      {
-        "Level": 29,
+        "Level": 13,
         "Move": "MOVE_AGILITY"
       },
       {
-        "Level": 38,
+        "Level": 16,
+        "Move": "MOVE_FLAME_CHARGE"
+      },
+      {
+        "Level": 20,
+        "Move": "MOVE_ACROBATICS"
+      },
+      {
+        "Level": 22,
         "Move": "MOVE_AERIAL_ACE"
       },
       {
-        "Level": 47,
+        "Level": 25,
         "Move": "MOVE_TAILWIND"
       },
       {
-        "Level": 56,
+        "Level": 27,
         "Move": "MOVE_STEEL_WING"
       },
       {
-        "Level": 65,
+        "Level": 30,
         "Move": "MOVE_ROOST"
       },
       {
-        "Level": 74,
-        "Move": "MOVE_FLY"
+        "Level": 32,
+        "Move": "MOVE_BRAVE_BIRD"
       },
       {
-        "Level": 83,
-        "Move": "MOVE_BRAVE_BIRD"
+        "Level": 36,
+        "Move": "MOVE_U_TURN"
+      },
+      {
+        "Level": 38,
+        "Move": "MOVE_SWORDS_DANCE"
+      },
+      {
+        "Level": 38,
+        "Move": "MOVE_AGILITY"
+      },
+      {
+        "Level": 40,
+        "Move": "MOVE_DEFOG"
       }
     ],
     "MachineMoves": [
